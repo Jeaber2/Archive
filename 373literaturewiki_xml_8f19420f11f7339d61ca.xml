@@ -1,0 +1,3615 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans">
+  <siteinfo>
+    <sitename>373 Literature Wiki</sitename>
+    <dbname>373literaturewiki</dbname>
+    <base>https://373literature.miraheze.org/wiki/%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.45.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">Project</namespace>
+      <namespace key="5" case="first-letter">Project讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>首页</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2025-05-22T14:41:55Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>1</id>
+      </contributor>
+      <comment>欢迎来到Miraheze！</comment>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2416" sha1="iohwf4gv5s8mh3khabiqofj26woe2ac" xml:space="preserve">__NOTOC__
+== 欢迎来到 {{SITENAME}}! ==
+此主页面是在Wiki创建时自动生成的，似乎尚未被替换。管理员可能仍在处理主页面，因此请稍后再来查看！
+
+=== 致管理员 ===
+你好，欢迎来到你的新Wiki！感谢你选择 Miraheze 来托管你的Wiki；我们希望你会喜欢我们的托管服务。你可以随时开始你在的Wiki的工作。
+
+需要帮助吗？没问题！首先，这里有一些我们鼓励您查看的资源：
+* [[mw:Special:MyLanguage/Help:Contents|MediaWiki 指南]]，涵盖Wiki基础知识：导航、编辑、软件的一般功能
+* [[m:Special:MyLanguage/Infoboxes|信息框]] 用于您可以在Wiki上获取这些内容的各种方式。如果您不确定从哪里开始，PortableInfoboxes 是一个常见的选择
+* [[m:Special:MyLanguage/ManageWiki|管理维基]] 以进一步自定义Wiki的设置（网站图标、扩展、权限等）。请仔细阅读：某些更改可能难以撤销
+* [[m:Special:MyLanguage/FAQ|Miraheze 常见问题解答]] 以获取 Miraheze 的一般概述
+* [[mh:dev|Miraheze 开发者维基]]，这是一个供每个人（没错，就是你！）查找模板（信息框、引用等）样式和其他有用配件以美化维基的资源。您可以在 [[mh:commons|Miraheze 共享]] 找到共享的图像，并在我们的 [[mh:test|公共测试Wiki]] 上尝试管理员权限。
+
+此外，如果您不确定如何创建新页面，您有几个选项：在现有页面上创建一个链接并跟随它，编辑地址栏以访问您想要的页面，或者访问 [[Special:ManageWiki/extensions]] 并启用 [[mw:Extension:CreatePageUw|CreatePageUw]] 以在侧边栏中添加一个方便的链接！
+
+==== 我还是不理解 ''X''! ====
+没问题！并不是所有内容都在常见问题解答中，或者足够清晰，我们很乐意提供帮助！您可以在这里找到我们：
+* [[m:Special:MyLanguage/Help center|在 Miraheze Meta]]
+* 在 [https://miraheze.org/discord Discord]
+* 在 #miraheze 的 IRC 上，地址为 irc.libera.chat ([irc://irc.libera.chat/%23miraheze 直接链接]; [https://web.libera.chat/?channel=#miraheze 网页聊天])
+* 在[[phorge:|我们的问题跟踪器]]上，如果您遇到 MediaWiki 错误
+
+=== 致访问本Wiki的访客 ===
+你好，本页是Wiki的默认主页，此页面尚未被该Wiki的管理员替换。管理员可能仍在制作主页，请稍后再来查看！</text>
+      <sha1>iohwf4gv5s8mh3khabiqofj26woe2ac</sha1>
+    </revision>
+    <revision>
+      <id>10</id>
+      <parentid>1</parentid>
+      <timestamp>2025-05-22T14:58:32Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>页面内容被替换为“欢迎来到'''373文学Wiki'''！  == 计划 == * [[73末日录]] * ''待补充''”</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="snk0a4yneyhkl81i64uykzhijc02nas" xml:space="preserve">欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* ''待补充''</text>
+      <sha1>snk0a4yneyhkl81i64uykzhijc02nas</sha1>
+    </revision>
+    <revision>
+      <id>16</id>
+      <parentid>10</parentid>
+      <timestamp>2025-05-22T16:22:03Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>已保护“[[首页]]”​（[编辑=仅允许管理员]（无限期）​[移动=仅允许管理员]（无限期））</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="snk0a4yneyhkl81i64uykzhijc02nas" xml:space="preserve">欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* ''待补充''</text>
+      <sha1>snk0a4yneyhkl81i64uykzhijc02nas</sha1>
+    </revision>
+    <revision>
+      <id>17</id>
+      <parentid>16</parentid>
+      <timestamp>2025-05-22T16:26:29Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="dq8hswmk6tkrub5b8cmvsx6ooch5dks" xml:space="preserve">欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* ''待补充''
+
+== 工具 ==
+* [[Special:最近更改]]
+* [[Special:所有页面]]
+* [[Special:用户列表]]
+* [[Special:登录]]</text>
+      <sha1>dq8hswmk6tkrub5b8cmvsx6ooch5dks</sha1>
+    </revision>
+    <revision>
+      <id>23</id>
+      <parentid>17</parentid>
+      <timestamp>2025-05-23T14:07:11Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 计划 */</comment>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="fnbygigprz7eway4yphkfxf253ly9ux" xml:space="preserve">欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* [[相关百科条目]]
+* ''待补充''
+
+== 工具 ==
+* [[Special:最近更改]]
+* [[Special:所有页面]]
+* [[Special:用户列表]]
+* [[Special:登录]]</text>
+      <sha1>fnbygigprz7eway4yphkfxf253ly9ux</sha1>
+    </revision>
+    <revision>
+      <id>36</id>
+      <parentid>23</parentid>
+      <timestamp>2025-05-23T15:32:48Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="s8o6hsrq6oa59olgn07p916yqyz1aws" xml:space="preserve">{{msgbox
+|title=通知
+|text=本站于2025年5月24日进入永久不活跃状态并全站全保护
+}}
+欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* [[相关百科条目]]
+* ''待补充''
+
+== 工具 ==
+* [[Special:最近更改]]
+* [[Special:所有页面]]
+* [[Special:用户列表]]
+* [[Special:登录]]</text>
+      <sha1>s8o6hsrq6oa59olgn07p916yqyz1aws</sha1>
+    </revision>
+    <revision>
+      <id>44</id>
+      <parentid>36</parentid>
+      <timestamp>2025-05-23T16:17:58Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="nvb5h7tum9hyhphowokkndj0tdvgldv" xml:space="preserve">{{msgbox
+|title=通知
+|text=本站于2025年5月24日进入永久不活跃状态
+}}
+欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* [[相关百科条目]]
+* ''待补充''
+
+== 工具 ==
+* [[Special:最近更改]]
+* [[Special:所有页面]]
+* [[Special:用户列表]]
+* [[Special:登录]]</text>
+      <sha1>nvb5h7tum9hyhphowokkndj0tdvgldv</sha1>
+    </revision>
+    <revision>
+      <id>52</id>
+      <parentid>44</parentid>
+      <timestamp>2025-05-23T16:33:07Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>/* 计划 */</comment>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="mniyy1qyd09oau6z5rs23mk6b0jd62t" xml:space="preserve">{{msgbox
+|title=通知
+|text=本站于2025年5月24日进入永久不活跃状态
+}}
+欢迎来到'''373文学Wiki'''！
+
+== 计划 ==
+* [[73末日录]]
+* [[相关百科条目]]
+
+== 工具 ==
+* [[Special:最近更改]]
+* [[Special:所有页面]]
+* [[Special:用户列表]]
+* [[Special:登录]]</text>
+      <sha1>mniyy1qyd09oau6z5rs23mk6b0jd62t</sha1>
+    </revision>
+    <revision>
+      <id>61</id>
+      <parentid>52</parentid>
+      <timestamp>2025-06-02T08:52:18Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>清空全部内容</comment>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>2</id>
+    <redirect title="首页" />
+    <revision>
+      <id>2</id>
+      <timestamp>2025-05-22T14:47:51Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“欢迎来到373文学Wiki！  == 计划 == * [[73末日录]] * ''待补充''”</comment>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="76" sha1="a0qqif5g1kuf09pani0rv6qhwg1tpco" xml:space="preserve">欢迎来到373文学Wiki！
+
+== 计划 ==
+* [[73末日录]]
+* ''待补充''</text>
+      <sha1>a0qqif5g1kuf09pani0rv6qhwg1tpco</sha1>
+    </revision>
+    <revision>
+      <id>11</id>
+      <parentid>2</parentid>
+      <timestamp>2025-05-22T14:59:14Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>重定向页面至[[首页]]</comment>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="p1w60mdluzrov6nrny6c8q3o8o3x12s" xml:space="preserve">#REDIRECT [[首页]]</text>
+      <sha1>p1w60mdluzrov6nrny6c8q3o8o3x12s</sha1>
+    </revision>
+    <revision>
+      <id>45</id>
+      <parentid>11</parentid>
+      <timestamp>2025-05-23T16:18:17Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>已保护“[[Main Page]]”​（[编辑=仅允许管理员]（无限期）​[移动=仅允许管理员]（无限期））</comment>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="p1w60mdluzrov6nrny6c8q3o8o3x12s" xml:space="preserve">#REDIRECT [[首页]]</text>
+      <sha1>p1w60mdluzrov6nrny6c8q3o8o3x12s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>73末日录</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>3</id>
+      <timestamp>2025-05-22T14:49:55Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>Created page with "这是'''73末日录'''的主页。  == 列表 == * [[73末日录/1]]  == 链接 == * [https://mp.weixin.qq.com/s/zW9fz2IILFjaKZEyecJtnA 微信公众平台]"</comment>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="156" sha1="ssd70h7t8vw5loo3x65fekeo9qhfurg" xml:space="preserve">这是'''73末日录'''的主页。
+
+== 列表 ==
+* [[73末日录/1]]
+
+== 链接 ==
+* [https://mp.weixin.qq.com/s/zW9fz2IILFjaKZEyecJtnA 微信公众平台]</text>
+      <sha1>ssd70h7t8vw5loo3x65fekeo9qhfurg</sha1>
+    </revision>
+    <revision>
+      <id>35</id>
+      <parentid>3</parentid>
+      <timestamp>2025-05-23T15:23:30Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 列表 */</comment>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="ldgai70k1976l77kf5f2u2cfurztwbe" xml:space="preserve">这是'''73末日录'''的主页。
+
+== 列表 ==
+* [[73末日录/1]]
+* [[73末日录/2]]
+* [[73末日录/3]]
+* [[73末日录/4]]
+* [[73末日录/5]]
+* [[73末日录/6]]
+* [[73末日录/7]]
+* [[73末日录/8]]
+
+== 链接 ==
+* [https://mp.weixin.qq.com/s/zW9fz2IILFjaKZEyecJtnA 微信公众平台]</text>
+      <sha1>ldgai70k1976l77kf5f2u2cfurztwbe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>73末日录/1</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2025-05-22T14:50:52Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“{{DISPLAYTITLE:第1章 穿越,天选之子?}}  时间：2024年1月10日  地点：373班    黄昏,落日,楼里安静的劳动课,安逸祥和。突然天空开始乌云密布,雷声震天,一道闪着刺眼白光的闪电直直朝373班轰来,一声震天响后373的同学们全不见了。    乐柯躺在沙滩上,轻风吹过,他慢慢张开眼,往四周看了看,迷惑道:“我不是在373被一道雷劈死了吗?怎么会在这儿?”忽然乐柯的脑…”</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2267" sha1="lk27plnzjvlhohjb03s1dkn19pfnqag" xml:space="preserve">{{DISPLAYTITLE:第1章 穿越,天选之子?}}
+
+时间：2024年1月10日
+
+地点：373班
+
+  黄昏,落日,楼里安静的劳动课,安逸祥和。突然天空开始乌云密布,雷声震天,一道闪着刺眼白光的闪电直直朝373班轰来,一声震天响后373的同学们全不见了。
+
+  乐柯躺在沙滩上,轻风吹过,他慢慢张开眼,往四周看了看,迷惑道:“我不是在373被一道雷劈死了吗?怎么会在这儿?”忽然乐柯的脑袋里“叮”的一声,随之便在乐柯的眼前出现了一个虚拟的屏幕正在柯疑惑时,声音从屏幕中出来:“主人你好我是您的系统小任。”乐柯问道:“这是哪儿?我同学呢?你有什么功能吗?”小任系统回道:“这是另一个时空,末世还有一个月降临。你的同学分布在华国的各个地方,而且你的同学也有技能,我的功能比他们的强大的多——我有生命且我是时空技能”乐柯又问了许多关于这个世界的问题,他了解到这个世界有很多大国:华国,老鹰国,毛子国,高户鸡国,日不落国,脚贫国。但在1年后所有的人都会不复存在,这原因的源头是脚盆国排放核污水,人类吃了海鱼后产生变异,变为丧尸。所有被穿越过来的人是为了拯救这个世界的。系统中有数额不等的启动资金。
+
+  乐柯消化完庞大的信息后,打算去购买物资,把系统打开后发现自己的启动资金是十个亿!乐柯深知末世之后钱如废纸。他马上出发去到了超市买了三百个太阳能板,一千箱干吃面,一千箱罐头,一百个床上四件套,一百个床,十箱A4纸(把记忆中的卷子,课时练抄写上去),十个大冰箱,二十个发电机等,最后一结算却只有一个亿，乐柯摇头心道:“这个世界物价好低,二十辆货车的“东西才一个亿,好便宜呀!”超市经理开心的走了过来说:“贵宾冒昧问您一下,这些东西是用来干什么的。““噢噢”乐柯的脑子快速思考“这些…是我老板…让我代购的员工福利。”“好好好,你们的员工福利真好”经理羡慕道。“那给您送到哪?”“加我V信,明天给你地址”“好”。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸</text>
+      <sha1>lk27plnzjvlhohjb03s1dkn19pfnqag</sha1>
+    </revision>
+    <revision>
+      <id>5</id>
+      <parentid>4</parentid>
+      <timestamp>2025-05-22T14:51:52Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2267" sha1="4npyy2f8qgdbwyh4r1mtz2heykg5jnd" xml:space="preserve">{{DISPLAYTITLE|第1章 穿越,天选之子?}}
+
+时间：2024年1月10日
+
+地点：373班
+
+  黄昏,落日,楼里安静的劳动课,安逸祥和。突然天空开始乌云密布,雷声震天,一道闪着刺眼白光的闪电直直朝373班轰来,一声震天响后373的同学们全不见了。
+
+  乐柯躺在沙滩上,轻风吹过,他慢慢张开眼,往四周看了看,迷惑道:“我不是在373被一道雷劈死了吗?怎么会在这儿?”忽然乐柯的脑袋里“叮”的一声,随之便在乐柯的眼前出现了一个虚拟的屏幕正在柯疑惑时,声音从屏幕中出来:“主人你好我是您的系统小任。”乐柯问道:“这是哪儿?我同学呢?你有什么功能吗?”小任系统回道:“这是另一个时空,末世还有一个月降临。你的同学分布在华国的各个地方,而且你的同学也有技能,我的功能比他们的强大的多——我有生命且我是时空技能”乐柯又问了许多关于这个世界的问题,他了解到这个世界有很多大国:华国,老鹰国,毛子国,高户鸡国,日不落国,脚贫国。但在1年后所有的人都会不复存在,这原因的源头是脚盆国排放核污水,人类吃了海鱼后产生变异,变为丧尸。所有被穿越过来的人是为了拯救这个世界的。系统中有数额不等的启动资金。
+
+  乐柯消化完庞大的信息后,打算去购买物资,把系统打开后发现自己的启动资金是十个亿!乐柯深知末世之后钱如废纸。他马上出发去到了超市买了三百个太阳能板,一千箱干吃面,一千箱罐头,一百个床上四件套,一百个床,十箱A4纸(把记忆中的卷子,课时练抄写上去),十个大冰箱,二十个发电机等,最后一结算却只有一个亿，乐柯摇头心道:“这个世界物价好低,二十辆货车的“东西才一个亿,好便宜呀!”超市经理开心的走了过来说:“贵宾冒昧问您一下,这些东西是用来干什么的。““噢噢”乐柯的脑子快速思考“这些…是我老板…让我代购的员工福利。”“好好好,你们的员工福利真好”经理羡慕道。“那给您送到哪?”“加我V信,明天给你地址”“好”。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸</text>
+      <sha1>4npyy2f8qgdbwyh4r1mtz2heykg5jnd</sha1>
+    </revision>
+    <revision>
+      <id>8</id>
+      <parentid>5</parentid>
+      <timestamp>2025-05-22T14:56:15Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2267" sha1="lk27plnzjvlhohjb03s1dkn19pfnqag" xml:space="preserve">{{DISPLAYTITLE:第1章 穿越,天选之子?}}
+
+时间：2024年1月10日
+
+地点：373班
+
+  黄昏,落日,楼里安静的劳动课,安逸祥和。突然天空开始乌云密布,雷声震天,一道闪着刺眼白光的闪电直直朝373班轰来,一声震天响后373的同学们全不见了。
+
+  乐柯躺在沙滩上,轻风吹过,他慢慢张开眼,往四周看了看,迷惑道:“我不是在373被一道雷劈死了吗?怎么会在这儿?”忽然乐柯的脑袋里“叮”的一声,随之便在乐柯的眼前出现了一个虚拟的屏幕正在柯疑惑时,声音从屏幕中出来:“主人你好我是您的系统小任。”乐柯问道:“这是哪儿?我同学呢?你有什么功能吗?”小任系统回道:“这是另一个时空,末世还有一个月降临。你的同学分布在华国的各个地方,而且你的同学也有技能,我的功能比他们的强大的多——我有生命且我是时空技能”乐柯又问了许多关于这个世界的问题,他了解到这个世界有很多大国:华国,老鹰国,毛子国,高户鸡国,日不落国,脚贫国。但在1年后所有的人都会不复存在,这原因的源头是脚盆国排放核污水,人类吃了海鱼后产生变异,变为丧尸。所有被穿越过来的人是为了拯救这个世界的。系统中有数额不等的启动资金。
+
+  乐柯消化完庞大的信息后,打算去购买物资,把系统打开后发现自己的启动资金是十个亿!乐柯深知末世之后钱如废纸。他马上出发去到了超市买了三百个太阳能板,一千箱干吃面,一千箱罐头,一百个床上四件套,一百个床,十箱A4纸(把记忆中的卷子,课时练抄写上去),十个大冰箱,二十个发电机等,最后一结算却只有一个亿，乐柯摇头心道:“这个世界物价好低,二十辆货车的“东西才一个亿,好便宜呀!”超市经理开心的走了过来说:“贵宾冒昧问您一下,这些东西是用来干什么的。““噢噢”乐柯的脑子快速思考“这些…是我老板…让我代购的员工福利。”“好好好,你们的员工福利真好”经理羡慕道。“那给您送到哪?”“加我V信,明天给你地址”“好”。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸</text>
+      <sha1>lk27plnzjvlhohjb03s1dkn19pfnqag</sha1>
+    </revision>
+    <revision>
+      <id>18</id>
+      <parentid>8</parentid>
+      <timestamp>2025-05-22T16:27:56Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2244" sha1="isa44eakq62hpelfehhzztzkodcuh6e" xml:space="preserve">第1章 穿越,天选之子?
+
+时间：2024年1月10日
+
+地点：373班
+
+黄昏,落日,楼里安静的劳动课,安逸祥和。突然天空开始乌云密布,雷声震天,一道闪着刺眼白光的闪电直直朝373班轰来,一声震天响后373的同学们全不见了。
+
+乐柯躺在沙滩上,轻风吹过,他慢慢张开眼,往四周看了看,迷惑道:“我不是在373被一道雷劈死了吗?怎么会在这儿?”忽然乐柯的脑袋里“叮”的一声,随之便在乐柯的眼前出现了一个虚拟的屏幕正在柯疑惑时,声音从屏幕中出来:“主人你好我是您的系统小任。”乐柯问道:“这是哪儿?我同学呢?你有什么功能吗?”小任系统回道:“这是另一个时空,末世还有一个月降临。你的同学分布在华国的各个地方,而且你的同学也有技能,我的功能比他们的强大的多——我有生命且我是时空技能”乐柯又问了许多关于这个世界的问题,他了解到这个世界有很多大国:华国,老鹰国,毛子国,高户鸡国,日不落国,脚贫国。但在1年后所有的人都会不复存在,这原因的源头是脚盆国排放核污水,人类吃了海鱼后产生变异,变为丧尸。所有被穿越过来的人是为了拯救这个世界的。系统中有数额不等的启动资金。
+
+乐柯消化完庞大的信息后,打算去购买物资,把系统打开后发现自己的启动资金是十个亿!乐柯深知末世之后钱如废纸。他马上出发去到了超市买了三百个太阳能板,一千箱干吃面,一千箱罐头,一百个床上四件套,一百个床,十箱A4纸(把记忆中的卷子,课时练抄写上去),十个大冰箱,二十个发电机等,最后一结算却只有一个亿，乐柯摇头心道:“这个世界物价好低,二十辆货车的“东西才一个亿,好便宜呀!”超市经理开心的走了过来说:“贵宾冒昧问您一下,这些东西是用来干什么的。““噢噢”乐柯的脑子快速思考“这些…是我老板…让我代购的员工福利。”“好好好,你们的员工福利真好”经理羡慕道。“那给您送到哪?”“加我V信,明天给你地址”“好”。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸</text>
+      <sha1>isa44eakq62hpelfehhzztzkodcuh6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:DISPLAYTITLE</title>
+    <ns>10</ns>
+    <id>5</id>
+    <revision>
+      <id>6</id>
+      <timestamp>2025-05-22T14:52:23Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“-{T|zh:-{zh|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-cn:-{zh-cn|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-tw:-{zh-tw|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-hk:-{zh-hk|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-}-”</comment>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="203" sha1="69p7eeshaz0y56twfwkvrl3idbyr52w" xml:space="preserve">-{T|zh:-{zh|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-cn:-{zh-cn|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-tw:-{zh-tw|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-;zh-hk:-{zh-hk|{{#if:1|{{{1|{{FULLPAGENAME}}}}}}}}-}-</text>
+      <sha1>69p7eeshaz0y56twfwkvrl3idbyr52w</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2025-05-22T14:54:54Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>参见维基百科同名模板</comment>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="dwfduvsj13541480mds22ofnv0m1h8r" xml:space="preserve">{{{1|{{FULLPAGENAME}}}}}</text>
+      <sha1>dwfduvsj13541480mds22ofnv0m1h8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>用户:Jeaber2</title>
+    <ns>2</ns>
+    <id>6</id>
+    <revision>
+      <id>9</id>
+      <timestamp>2025-05-22T14:57:05Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“不知道写什么，以后再写”</comment>
+      <origin>9</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="dxn24puqmye1nqedky9tdnuf3t068k8" xml:space="preserve">不知道写什么，以后再写</text>
+      <sha1>dxn24puqmye1nqedky9tdnuf3t068k8</sha1>
+    </revision>
+    <revision>
+      <id>59</id>
+      <parentid>9</parentid>
+      <timestamp>2025-05-25T06:31:23Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="457" sha1="2qbj462r0bp7tbhtaxv5vofx6oxroim" xml:space="preserve">请注意，所有对373 Literature Wiki的贡献均被视为依照Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)发表（详情请见Project:著作权）。如果您不希望您的文字作品被随意编辑和分发传播，请不要在此提交。
+您同时也向我们承诺，您提交的内容为您自己所创作，或是复制自公共领域或类似自由来源。未经许可，请勿提交受著作权保护的作品！</text>
+      <sha1>2qbj462r0bp7tbhtaxv5vofx6oxroim</sha1>
+    </revision>
+    <revision>
+      <id>62</id>
+      <parentid>59</parentid>
+      <timestamp>2025-07-04T02:41:05Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="948" sha1="qtuyklb4yhdsydrhhm3p6tuadnmk14g" xml:space="preserve">请注意，所有对373 Literature Wiki的贡献均被视为依照Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)发表（详情请见Project:著作权）。如果您不希望您的文字作品被随意编辑和分发传播，请不要在此提交。
+您同时也向我们承诺，您提交的内容为您自己所创作，或是复制自公共领域或类似自由来源。未经许可，请勿提交受著作权保护的作品！
+
+{{Joke feature|update=24w14potato}}
+{{Infobox block
+|image=Poisonous Potato Headpiece.png
+|invimage=[马铃石]Poisonous Potato Headpiece
+|breaking-tool=''无''
+|nobe=1
+|hardness=1
+|blast-resistance=1
+|lava-flammable=否
+|suffocating=是
+|java-solid=是
+|redstone-conductor=是
+|replaceable=否
+|push-reaction=可推动，可拉动
+|instrument=底鼓
+|map-color={{color|#9F5224}}
+|block-id-raw=potone
+|item-id-raw=potone
+|maxstack=64
+|renewable=否
+|creative-tab=马铃薯（Potatoes）
+}}</text>
+      <sha1>qtuyklb4yhdsydrhhm3p6tuadnmk14g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>73末日录/2</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>12</id>
+      <timestamp>2025-05-22T16:16:23Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“第2章 买房,遇到同学!  前言: 在上一章中，乐柯在学校被雷击后穿越到末世时空，获得了一个强大的系统小任。他发现自己和同学们被分散在这个世界，每人都有独特技能。乐柯了解到由于核污水导致的变异，人类将在一年后灭亡。他利用系统提供的启动资金购买了大量末世生存物资。通过这些准备，乐柯开始了他在新世界的生存和拯救人类的冒险。7…”</comment>
+      <origin>12</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2579" sha1="dtqzwr508jzvgi2es27d2f0mubrtvbm" xml:space="preserve">第2章 买房,遇到同学!
+
+前言:
+在上一章中，乐柯在学校被雷击后穿越到末世时空，获得了一个强大的系统小任。他发现自己和同学们被分散在这个世界，每人都有独特技能。乐柯了解到由于核污水导致的变异，人类将在一年后灭亡。他利用系统提供的启动资金购买了大量末世生存物资。通过这些准备，乐柯开始了他在新世界的生存和拯救人类的冒险。73末日录
+
+日期:1月10日
+
+地点：373班,家中
+
+第二天,可打算找一个安全系数高,贮存物品多的大房子。
+
+乐柯忽然想到了在山顶修建的别墅群“云顶山庄!”
+
+乐柯一想那里的价格想到:我去,要是在地球我怎么可能活的这么滋润呢?我得好好看看:乐柯走向售楼部。
+
+乐柯大踏步走了进去:“把你们经理叫出来!”
+
+“你是什么身份,给我提鞋都不配,还想见我们经理,没可能,呸!保安!把他赶出去!”销售员小张不屑道。
+
+“不好吧。我去找经理。”销售员小陈道。
+
+“你刚来不知道,这种人我见多了,没一个有钱的。”销售员小张道,“不信你去找经理问问。”
+
+“好”经理过来后,乐柯和经理愣住了,同时震惊道:“是你?”
+
+经理竟然是超市的那个经理!“快!准备VVVVVIP房间,我要与这位先生恰谈!”
+
+小陈和小张愣住了,就连在大厅中的小情侣也愣住了。
+
+小情侣喊道:“乐柯?!”
+
+“崔神?刘佳?你们这是…”乐柯看着刘佳纤细的手指放在崔神鼻上的画面陷入沉思。
+
+崔神和刘佳连忙分开,跑到采柯身边,准备握手。
+
+“别,别,”乐柯退后两步。
+
+他们两人惺惺收回了手。
+
+“终于又见面了,我正好打算把别墅群全买下来我可是有足足3个亿呢!”乐柯豪气道。
+
+崔神和刘佳看着自己不到50万的资金叹道“他真是天选之子呀!”
+
+经理把他们送到了VVVVVIP室里问道:“哥,说吧要几个,我按200万给你打五折!”
+
+“全要,业绩算前台那个小陈上。”
+
+“全要?!打折完还0.5个亿呢?你们老板真好”
+
+乐柯讪讪笑道:“是呀,就是非常好。”
+
+崔神鄙夷的想到:“无中生老板,我怎么想不到呢,我还是太单纯了,这个乐柯什么鬼点都能想出来。
+
+最后两人恰谈成功,立刻交房,物资放在001号别墅(最豪华)下面的10000平方米的地下室中。
+
+乐柯认为崔神和刘佳十分恩爱于是把他们安排在002号别墅。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸</text>
+      <sha1>dtqzwr508jzvgi2es27d2f0mubrtvbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>73末日录/3</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>13</id>
+      <timestamp>2025-05-22T16:18:03Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“第3章,华国能买枪!?  前言：  上一章故事描述了乐柯在寻找安全且能存储大量物品的大房子时，决定去位于山顶的别墅群“云顶山庄”查看。到达售楼部后，乐柯的要求见经理的举动遭到销售员小张的轻视，但销售员小陈选择去找经理。结果出人意料，经理竟然是乐柯在超市遇到的那位经理，两人相认后，经理立刻表示要以VVVVVIP的待遇接待乐柯。  紧…”</comment>
+      <origin>13</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2904" sha1="6zfb1b2op7lx7bq3oqedv7gqh9gs325" xml:space="preserve">第3章,华国能买枪!?
+
+前言：
+
+上一章故事描述了乐柯在寻找安全且能存储大量物品的大房子时，决定去位于山顶的别墅群“云顶山庄”查看。到达售楼部后，乐柯的要求见经理的举动遭到销售员小张的轻视，但销售员小陈选择去找经理。结果出人意料，经理竟然是乐柯在超市遇到的那位经理，两人相认后，经理立刻表示要以VVVVVIP的待遇接待乐柯。
+
+紧接着，故事中出现了小情侣崔神和刘佳，他们对乐柯的出现感到惊讶。乐柯表示自己打算购买整个别墅群，并豪言自己拥有三亿资金。这让崔神和刘佳感到乐柯非比寻常，称他为“天选之子”。经理提出以五折的优惠给乐柯购买别墅，乐柯决定全买，并要求业绩算在小陈名下。
+
+最终，乐柯成功购买了整个别墅群，并把物资存放在001号别墅的地下室中，这是最豪华的别墅。因为认为崔神和刘佳关系亲密，乐柯安排他们住在002号别墅。整个故事展现了乐柯的财力和他在别人眼中的非凡地位，以及他的豪爽和对朋友的关照。73末日录第二章
+
+日期1月11日
+
+地点:373班,家中
+
+“对了,你你俩的系统是什么?”乐柯很好奇。
+
+“我的是卷王能力,每杀一只丧尸加0.1武力值,我初始,武力值是20”崔神道
+
+“我的是政治能力,每小时出一道选择题,错了的话,1天内必定因为意外死亡。”刘佳道“但必需要有A4纸。”
+
+“我的是空间能力,可以贮藏100立方米的物品”乐柯直说道。
+
+“经理!你过来一下。”乐柯喊道,经理小跑过来“那个你有没有买枪的地方”乐柯小声说。
+
+“那个呀!我还以为是什么呢!华国买枪不违法。”经理笑着说。
+
+“不违法?!”
+
+“嗯,对了我还卖枪,你们要吗?”经理小王神秘道“我还卖西风导弹100万一个要吗?”
+
+“好,太好了!”乐柯高兴道“枪每个一百把,10枚西风,子弹有多少拿多少!”
+
+“好,一共0.5个亿”乐柯豪气得将黑卡递给经理。“我还有事先走了,下次在002号见!SeeYouAgain”说完乐柯便快速得走了。
+
+之后,乐柯去了安全屋装修的公司,计划把云顶山庄拿世界最好的钢材围起来,别墅都把保护做到顶级。最后花了2个亿。随后乐柯将别墅群一旁的沃尔洋买下花2个亿。
+
+20天之后,修筑完成,东西也安排好了。乐柯也把枪械、物品等全部放到万能系统的空间能力里,保证了物品不会过期。
+
+乐柯也在后10天内找到了4个同学:在写语文题的摇宛扬,在隐身偷看屁王和浅泽薄打情骂俏的轻奢,AI编程王屁王,发疯的浅泽薄。
+
+当然乐柯还是留了心眼,没告诉他们自己真实的资金和系统。
+
+撰写：柯韵书香 婉如清扬
+
+刊登：杨子霆
+
+校对：杨子霆 刘佳宸 赵鹏宇</text>
+      <sha1>6zfb1b2op7lx7bq3oqedv7gqh9gs325</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>用户:Jeaber2/common.js</title>
+    <ns>2</ns>
+    <id>9</id>
+    <revision>
+      <id>14</id>
+      <timestamp>2025-05-22T16:18:43Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“mw.loader.load('https://cdn.jsdelivr.net/npm/mediawiki-inpageedit')  // InPageEdit Preferences ;(window.InPageEdit = window.InPageEdit || {}).myPreference = {   "doNotCollectMyInfo": false,   "editMinor": true,   "editSummary": "[IPE] $section $oldid",   "lockToolBox": true,   "redLinkQuickEdit": false,   "outSideClose": true,   "watchList": "preferences",   "noConfirmEdit": false,   "plugins": [     "toolbox.js",     "wiki-editor.js",     "edit-any-page.js",…”</comment>
+      <origin>14</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="573" sha1="qyck2xoarhbxdz931fok8vli0336ok5" xml:space="preserve">mw.loader.load('https://cdn.jsdelivr.net/npm/mediawiki-inpageedit')
+
+// InPageEdit Preferences
+;(window.InPageEdit = window.InPageEdit || {}).myPreference = {
+  "doNotCollectMyInfo": false,
+  "editMinor": true,
+  "editSummary": "[IPE] $section $oldid",
+  "lockToolBox": true,
+  "redLinkQuickEdit": false,
+  "outSideClose": true,
+  "watchList": "preferences",
+  "noConfirmEdit": false,
+  "plugins": [
+    "toolbox.js",
+    "wiki-editor.js",
+    "edit-any-page.js",
+    "color-preview.js",
+    "quick-thank.js",
+    "fix-double-entrance.js",
+    "code-mirror/script.js"
+  ]
+}</text>
+      <sha1>qyck2xoarhbxdz931fok8vli0336ok5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Gadget-mobileSidebar.js</title>
+    <ns>8</ns>
+    <id>10</id>
+    <revision>
+      <id>15</id>
+      <timestamp>2025-05-22T16:19:57Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“mw.loader.using( [ 	'mediawiki.util', ] ).then( function() { 	return new mw.Api().loadMessagesIfMissing( [ 		'recentchanges' 	], { 'maxage': 3600, 'smaxage': 3600 } ); } ).then( function() { 	var conv = require( 'ext.gadget.HanAssist' ).conv; 	var advancedMode = mw.config.get( 'wgMFAmc' ); 	 	if ( !advancedMode ) mw.util.addPortletLink( 'p-navigation', mw.util.getUrl('Special:RecentChanges'), 		mw.msg('recentchanges'), 'recentchanges', null, null, '#pt-dm-toggl…”</comment>
+      <origin>15</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="553" sha1="osihqfhvfuxq8cpqqz94a6wj1qqd5jv" xml:space="preserve">mw.loader.using( [
+	'mediawiki.util',
+] ).then( function() {
+	return new mw.Api().loadMessagesIfMissing( [
+		'recentchanges'
+	], { 'maxage': 3600, 'smaxage': 3600 } );
+} ).then( function() {
+	var conv = require( 'ext.gadget.HanAssist' ).conv;
+	var advancedMode = mw.config.get( 'wgMFAmc' );
+	
+	if ( !advancedMode ) mw.util.addPortletLink( 'p-navigation', mw.util.getUrl('Special:RecentChanges'),
+		mw.msg('recentchanges'), 'recentchanges', null, null, '#pt-dm-toggle' );
+	$('a.menu__item--random').attr('href', mw.util.getUrl('Special:RandomRootpage'));</text>
+      <sha1>osihqfhvfuxq8cpqqz94a6wj1qqd5jv</sha1>
+    </revision>
+    <revision>
+      <id>51</id>
+      <parentid>15</parentid>
+      <timestamp>2025-05-23T16:27:52Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>清空全部内容</comment>
+      <origin>51</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Msgbox</title>
+    <ns>10</ns>
+    <id>11</id>
+    <revision>
+      <id>19</id>
+      <timestamp>2025-05-22T16:30:11Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;includeonly&gt;{{ #invoke: message box | main }}&lt;/includeonly&gt;”</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="ozg3c39qh1fjxb1463yci712rhaucsk" xml:space="preserve">&lt;includeonly&gt;{{ #invoke: message box | main }}&lt;/includeonly&gt;</text>
+      <sha1>ozg3c39qh1fjxb1463yci712rhaucsk</sha1>
+    </revision>
+    <revision>
+      <id>37</id>
+      <parentid>19</parentid>
+      <timestamp>2025-05-23T15:33:41Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Jeaber2移动页面[[模板:Message box]]至[[模板:Msgbox]]，不留重定向</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="ozg3c39qh1fjxb1463yci712rhaucsk" xml:space="preserve">&lt;includeonly&gt;{{ #invoke: message box | main }}&lt;/includeonly&gt;</text>
+      <sha1>ozg3c39qh1fjxb1463yci712rhaucsk</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>37</parentid>
+      <timestamp>2025-05-23T15:38:49Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1567" sha1="759vxjofc62q3n7w2ljmtfbn2eiujzu" xml:space="preserve">&lt;includeonly&gt;&lt;div style="display: flex; {{#if: {{{mini|}}} || justify-content: center;}} margin-bottom: 1em;"&gt;&lt;div class="msgbox" style="display: inline-grid; background-color: {{{bgcol|#f8f9fa}}}; border-left: 8px solid {{{linecol|#36c}}}; {{#if: {{{font-size|}}} | font-size: {{{font-size}}}; }} grid-template-columns: {{#if: {{{icon|}}}{{{image|}}} | max-content }} 1fr; {{#if: {{{width|}}} | flex-basis: {{{width}}}; }} {{{css|}}}"&gt;
+{{#if: {{{icon|}}}{{{image|}}} | &lt;div style="align-self: center; margin: 0 {{#if: {{{mini|}}} | 0.3em | 0.6em }}; {{{imagecss|}}}"&gt;{{{imagetextbefore|}}}{{#if: {{{icon|}}} | {{CommentSprite | {{{icon|}}} }} }}{{#if: {{{image|}}} | [[File:{{{image}}}|{{#if: {{{imagesize|}}} | {{{imagesize}}} | {{#if: {{{mini|}}} | 16px | 32px }} }}|text-top]] }}{{{imagetextafter|}}}
+&lt;/div&gt; }}
+&lt;div style="align-self: center; text-align: center; {{#if: {{{icon|}}}{{{image|}}} || margin-left: {{#if: {{{mini|}}} | 0.3em | 0.6em }}; }} margin-right: {{#if: {{{mini|}}} | 0.3em | 0.6em }};"&gt;
+{{#if: {{{title|}}} | &lt;div style="{{#if: {{{mini|}}} || margin-top: 0.3em; }}{{#if: {{{text|}}} || margin-bottom: 0.3em; }}"&gt;'''{{{title}}}'''{{#if: {{{discuss|}}}{{{discussPage|}}}{{{discussAnchor|}}} | &lt;sup&gt;{{Direct link|{{#if: {{{discussPage|}}} | {{{discussPage}}} | {{TALKPAGENAME}} }}{{#if: {{{discussAnchor|}}} | &amp;#35;{{{discussAnchor}}} }}|讨论}}&lt;/sup&gt; }}&lt;/div&gt; }}&lt;!--
+--&gt;{{#if: {{{text|}}} | &lt;div style="{{#if: {{{title|}}} || margin-top: 0.3em; }}{{#if: {{{mini|}}} || margin-bottom: 0.3em; }}"&gt;
+&lt;p style="margin: 0;"&gt;
+{{{text}}}
+&lt;/p&gt;
+&lt;/div&gt; }}</text>
+      <sha1>759vxjofc62q3n7w2ljmtfbn2eiujzu</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2025-05-23T16:10:52Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="680" sha1="59vhmacv07ris3rirt6tf05byhb613k" xml:space="preserve">{{Fmbox
+| style = {{#if:{{{backgroundcolor|}}}|background: {{{backgroundcolor}}}}}
+| image = {{#if:{{{image|}}}|[[File:{{{image}}}|45px]]|none}}
+| text  = {{#if:{{{heading|}}}|'''{{{heading|}}}'''&lt;br /&gt;}}{{{message|{{{1|Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.}}}}}}
+}}</text>
+      <sha1>59vhmacv07ris3rirt6tf05byhb613k</sha1>
+    </revision>
+    <revision>
+      <id>42</id>
+      <parentid>39</parentid>
+      <timestamp>2025-05-23T16:17:03Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1565" sha1="3vcrilr6c49p9dl895iwkvhgf36tbbo" xml:space="preserve">&lt;includeonly&gt;&lt;templatestyles src="Message box/styles.css" /&gt;&lt;div
+ class="msgbox {{#if: {{{icon|}}}{{{image|}}} | has-image }} {{#if: {{{mini|}}} | msgbox-mini }} {{#if: {{{type|}}} | msgbox-{{{type}}} | msgbox-notice }} {{{class|}}}" {{
+  #if: {{{bgcol|}}}{{{linecol|}}}{{{font-size|}}}{{{css|}}}
+  | style="{{
+    #if: {{{bgcol|}}} | background-color: {{{bgcol}}};
+   }}{{
+    #if: {{{linecol|}}} | border-left-color: {{{linecol}}};
+   }}{{
+    #if: {{{font-size|}}} | font-size: {{{font-size}}};
+   }}{{{css|}}}"
+  }}&gt;
+{{#if: {{{icon|}}}{{{image|}}}
+| &lt;div
+  class="msgbox-icon-image"
+  {{#if: {{{imagecss|}}} | style="{{{imagecss}}}" }}
+  &gt;{{{imagetextbefore|}}}{{
+ #if: {{{icon|}}}
+ | {{CommentSprite|{{{icon|}}}}}
+}}{{
+ #if: {{{image|}}}
+ | [[File:{{{image}}}|{{
+  #if: {{{imagesize|}}}
+  | {{{imagesize}}}
+  | {{#if: {{{mini|}}}
+   | 16px
+   | 32px
+  }}
+ }}|text-top]]
+}}{{{imagetextafter|}}}
+&lt;/div&gt;
+}}&lt;!--
+--&gt;&lt;div class="msgbox-body align-{{{text-align|left}}}"&gt;
+{{#if: {{{title|}}}
+| &lt;div class="msgbox-title"&gt;'''{{{title}}}'''{{
+ #if: {{{customaction|}}}
+ | &lt;sup&gt;{{{customaction}}}&lt;/sup&gt;
+ }}{{
+ #if: {{{discuss|}}}{{{discussPage|}}}{{{discussAnchor|}}}
+ | &amp;nbsp;&lt;sup&gt;{{Direct link|{{
+  #if: {{{discussPage|}}}
+  | {{{discussPage}}}
+  | {{TALKPAGENAME}}
+ }}{{
+  #if: {{{discussAnchor|}}}
+  | &amp;#35;{{{discussAnchor}}}
+ }}|讨论}}&lt;/sup&gt;{{
+ #if: {{{linkshere|}}}
+ | &amp;nbsp;&lt;sup&gt;[[Special:WhatLinksHere/{{FULLPAGENAME}}|链入]]&lt;/sup&gt;
+}}
+}}&lt;/div&gt;
+}}&lt;!--
+--&gt;{{#if: {{{text|}}}
+| &lt;div class="msgbox-text"&gt;
+&lt;p&gt;
+{{{text}}}
+&lt;/p&gt;
+&lt;/div&gt;
+}}
+&lt;/div&gt;
+&lt;/div&gt;&lt;/includeonly&gt;</text>
+      <sha1>3vcrilr6c49p9dl895iwkvhgf36tbbo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Infobox</title>
+    <ns>10</ns>
+    <id>12</id>
+    <revision>
+      <id>20</id>
+      <timestamp>2025-05-22T16:34:39Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;includeonly&gt;&lt;templatestyles src="Infobox/styles.css" /&gt;{{#invoke: infobox | infobox }}&lt;/includeonly&gt;&lt;noinclude&gt;”</comment>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="7gck4h7fa6buz3cxf2v5v3xu06891ka" xml:space="preserve">&lt;includeonly&gt;&lt;templatestyles src="Infobox/styles.css" /&gt;{{#invoke: infobox | infobox }}&lt;/includeonly&gt;&lt;noinclude&gt;</text>
+      <sha1>7gck4h7fa6buz3cxf2v5v3xu06891ka</sha1>
+    </revision>
+    <revision>
+      <id>47</id>
+      <parentid>20</parentid>
+      <timestamp>2025-05-23T16:21:47Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="101" sha1="e92k31rvgfwoar2m0mhmgsf8f023ibu" xml:space="preserve">&lt;includeonly&gt;&lt;templatestyles src="Infobox/styles.css" /&gt;{{#invoke: Infobox | infobox }}&lt;/includeonly&gt;</text>
+      <sha1>e92k31rvgfwoar2m0mhmgsf8f023ibu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Infobox/styles.css</title>
+    <ns>10</ns>
+    <id>13</id>
+    <revision>
+      <id>21</id>
+      <timestamp>2025-05-22T16:36:13Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“.notaninfobox { 	position: relative; 	clear: right; 	margin: 0 0 1em 1em; 	width: 300px; 	font-size: 90%; 	background-color: var(--custom-table-background); 	float: right; 	border: 1px solid var(--custom-border-gray); 	padding: 2px; 	overflow: auto; 	z-index: 1; 	overflow-wrap: anywhere; } @media all and (max-width: 511px) { 	.notaninfobox { 		float: none; 		margin-left: 0; 		width: auto; 	} } @media all and (max-width: 337px) { 	.notaninfobox { 		margin-left:…”</comment>
+      <origin>21</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="3246" sha1="lg6bc31vfd37q2ruql8augxwscwpcfl" xml:space="preserve">.notaninfobox {
+	position: relative;
+	clear: right;
+	margin: 0 0 1em 1em;
+	width: 300px;
+	font-size: 90%;
+	background-color: var(--custom-table-background);
+	float: right;
+	border: 1px solid var(--custom-border-gray);
+	padding: 2px;
+	overflow: auto;
+	z-index: 1;
+	overflow-wrap: anywhere;
+}
+@media all and (max-width: 511px) {
+	.notaninfobox {
+		float: none;
+		margin-left: 0;
+		width: auto;
+	}
+}
+@media all and (max-width: 337px) {
+	.notaninfobox {
+		margin-left: -16px;
+		margin-right: -16px;
+		border-left: none;
+		border-right: none;
+	}
+}
+
+.notaninfobox &gt; .infobox-title {
+	font-weight: bold;
+	text-align: center;
+	font-size: 120%;
+	border: none;
+}
+.infobox-imagearea {
+	text-align: center;
+	padding: 4px;
+}
+.infobox-imagearea &gt; div:not(:first-child) {
+	padding-top: 1em;
+}
+/* Horizontally centre animated images */
+.infobox-imagearea .animated {
+	display: inline-flex;
+	align-items: center;
+}
+
+.notaninfobox .infobox-rows {
+	display: grid;
+	grid-template-columns: max-content 1fr;
+	gap: 1px;
+}
+.notaninfobox .infobox-rows .infobox-row {
+	display: contents;
+}
+
+.notaninfobox .infobox-row .infobox-row-label,
+.notaninfobox .infobox-row .infobox-row-field {
+	padding: 4px;
+}
+
+.notaninfobox .infobox-row .infobox-row-label {
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+}
+
+.notaninfobox .infobox-rows .infobox-row:nth-child(2n) .infobox-row-label,
+.notaninfobox .infobox-rows .infobox-row:nth-child(2n) .infobox-row-field {
+	background-color: var(--custom-table-alternate-background);
+}
+
+/* Infoboxes with tabber */
+.tabber-container-infobox .tabber .tabbertab,
+.tabber-container-infobox ul.tabbernav li a,
+.tabber-container-infobox ul.tabbernav li.tabberactive a {
+	background: none;
+	border: none;
+}
+
+.tabber-container-infobox .tabber .tabbertab {
+	padding: 0;
+}
+
+.tabber-container-infobox ul.tabbernav {
+	font: inherit;
+	font-size: 100%;
+}
+
+.tabber-container-infobox ul.tabbernav li a:hover {
+	color: #000;
+}
+
+.tabber-container-infobox ul.tabbernav &gt; li {
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+.tabber-container-infobox ul.tabbernav &gt; li &gt; a {
+	color: #595959;
+	padding-bottom: 1px;
+	display: block;
+}
+
+/* To prevent the tabs from jumping around when they become active or inactive
+ * due to the font-weight changing from normal to bold and vice versa, add an
+ * invisible ::before which contains the same text as the tab's text, but
+ * bolded. This way the element in which unbolded text sits is sized according
+ * to the bolded text, preventing it from resizing upon being selected.
+ */
+.tabber-container-infobox ul.tabbernav &gt; li &gt; a::before {
+	display: block;
+	content: attr(alt);
+	font-weight: bold;
+	height: 0;
+	color: transparent;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+.tabber-container-infobox ul.tabbernav &gt; li.tabberactive {
+	border: none;
+}
+
+.tabber-container-infobox ul.tabbernav &gt; li.tabberactive &gt; a {
+	font-weight: bold;
+	color: var(--link-color);
+	border-bottom: 2px solid var(--custom-mcwiki-header-color);
+}
+
+.infobox-rows p {
+	margin: 0;
+}
+
+/* Merge adjacent dls in the infobox, since they're usually supposed to be one,
+ * but the wiki screws up sometimes.
+ */
+.infobox-rows dl + dl {
+	margin-top: -0.4em;
+}
+
+.infobox-rows dl:last-child {
+	margin-bottom: 0.2em;
+}
+
+.infobox-footer {
+	text-align: center;
+}</text>
+      <sha1>lg6bc31vfd37q2ruql8augxwscwpcfl</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>21</parentid>
+      <timestamp>2025-05-23T16:22:41Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>48</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="2473" sha1="hg5k03cw8r22g8vvpuf22molmvwthxn" xml:space="preserve">.notaninfobox {
+	position: relative;
+	float: right;
+	clear: right;
+	margin: 0 0 .6em .6em;
+	font-size: 90%;
+	background-color: #8eb3d4;/*#d9e9fa*/
+	overflow-x: auto;
+    box-shadow: 0px 3px 1px 0 rgba(81, 90, 97, .25);
+    border-radius: 2px;
+}
+
+@media screen and (min-width: 720px) {
+	.notaninfobox {
+		width: 300px;
+	}
+}
+
+@media screen and (max-width: 720px) {
+	.notaninfobox {
+		position: static;
+		float: none;
+		clear: none;
+		margin: .6em 0;
+	}
+}
+
+.notaninfobox &gt; div:not(:first-child) {
+	padding-top: 2px;
+}
+
+.infobox-title {
+	background-color: #96bcd9;
+	font-weight: bold;
+	font-size: 1.25em;
+	text-align: center;
+	color: #262a2d;
+	padding: .25em 0;
+	position: sticky;
+	left: 0;
+}
+
+.infobox-imagearea {
+	text-align: center;
+	padding: 6px;
+    background-color: #cae3fa;
+	position: sticky;
+	left: 0;
+}
+
+.infobox-imagearea &gt; div:not(:first-child) {
+	margin-top: .8em;
+}
+
+.infobox-subheader {
+	text-align: center;
+	background-color: #bedaf3;
+	position: sticky;
+	left: 0;
+}
+
+.infobox-rows {
+	display: grid;
+	grid-template-columns: max-content 1fr;
+	margin-top: 4px;
+	/*border-top: 4px solid #8eb3d4;*/
+}
+
+.notaninfobox &gt; div.infobox-rows {
+	padding-top: 0;
+}
+
+.infobox-row {
+	display: contents;
+}
+
+.infobox-cell-header {
+	background-color: #97bcda;
+}
+
+.infobox-cell-header,
+.infobox-cell-data {
+	padding: 1px 3px;
+}
+
+.infobox-footer {
+	font-size: 90%;
+	position: sticky;
+	left: 0;
+	/* text-align: center; */
+}
+
+.infobox-cell-data .nowrap {
+	white-space: nowrap;
+}
+
+.infobox-row:nth-child(2n) &gt; .infobox-cell-header {
+	background-color: #97bcda;
+}
+
+.infobox-row:nth-child(2n) &gt; .infobox-cell-data {
+	background-color: #e5f3f9;
+}
+
+.infobox-row:nth-child(2n+1) &gt; .infobox-cell-header {
+	background-color: #abcde8;
+}
+
+.infobox-row:nth-child(2n+1) &gt; .infobox-cell-data {
+	background-color: #f1fafe;
+}
+
+.subinfobox.infobox-rows {
+	border-top: 0;
+}
+
+.infobox-cell-data .subinfobox {
+	margin: -1px -3px;
+}
+
+.infobox-row:nth-child(2n) .subinfobox .infobox-cell-header {
+	background-color: #abcde3;
+}
+
+.infobox-row:nth-child(2n) .subinfobox .infobox-cell-data {
+	background-color: #e5f3f9;
+}
+
+.infobox-row:nth-child(2n+1) .subinfobox .infobox-cell-header {
+	background-color: #c1d9e9;
+}
+
+.infobox-row:nth-child(2n+1) .subinfobox .infobox-cell-data {
+	background-color: #f1fafe;
+}
+
+.subinfobox .infobox-row:not(:first-child) .infobox-cell-header {
+	border-top: 1px solid #7c8a94;
+}
+
+.subinfobox .infobox-row:not(:first-child) .infobox-cell-data {
+	border-top: 1px solid #bcd0e0;
+}</text>
+      <sha1>hg5k03cw8r22g8vvpuf22molmvwthxn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>73末日录/4</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>22</id>
+      <timestamp>2025-05-23T12:57:16Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“第4章未日爆发 前言： 上一章描述了乐柯和他的同学们在一个充满丧尸的世界中的生活。每个人都有不同的能力和系统，以应对这个危险的环境。 崔神拥有卷王能力，可以提高自己的武力值，他的初始武力值是20。刘佳拥有政治能力，每小时出一道选择题，答错会导致意外死亡，但需要A4纸。刘佳拥有空间能力，可以贮藏大量物品。 他们决定购买枪械…”</comment>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2831" sha1="6919ph8j5b1ltpsnkdgy227238e47ui" xml:space="preserve">第4章未日爆发
+前言：
+上一章描述了乐柯和他的同学们在一个充满丧尸的世界中的生活。每个人都有不同的能力和系统，以应对这个危险的环境。
+崔神拥有卷王能力，可以提高自己的武力值，他的初始武力值是20。刘佳拥有政治能力，每小时出一道选择题，答错会导致意外死亡，但需要A4纸。刘佳拥有空间能力，可以贮藏大量物品。
+他们决定购买枪械和西风导弹来提高自己的生存能力。经理告诉他们在华国买枪不违法，并提供了枪支和导弹的价格。乐柯非常高兴地购买了大量武器和导弹。
+之后，乐柯投资了大量资金来装修安全屋，并购买了周围的土地。修筑完成后，他将物品存储到了万能系统的空间能力中，以确保它们不会过期。
+乐柯还找到了四个同学，他们各自拥有不同的能力，可以一起生存下来。然而，乐柯没有透露自己真实的资金和系统信息，保留了一些秘密。
+这个故事充满了奇幻和冒险元素，描述了一群人在丧尸世界中的生存努力和策略。
+日期1月11日
+地点:家中,373班
+乐柯望着那醒目的10分钟,陷入深思:十分钟后会发生什么?变成9分钟了…8分…7…6…5…1!!
+然而什么都没有发生,乐柯疑惑的打开华为手机,手机上的新闻忽的弹了出来。
+点开一看:“震惊!太圆城市竟然出现了100例狂犬病咬人事件!!!”乐柯叹道:“该来的还是来了呀”
+“叮铃铃~”乐柯听到领工小李了手机铃,扭过头来,看到了手机屏上大大的几个字:装修领工来电。
+“是他们?”乐柯很疑惑“糟了,他们不会知道了吧。”
+“喂,您好,是李工人吧,哎好久不见好久不见。”乐柯客气地接通了电话。
+“这个乐总啊,有个事,就是最近的新闻您也看了吧。这两天,嗯……可以让我们住一段时间吗?”
+“嘿!不就是狂犬病事件吗,没多大影响,况且我还要招待朋友呢。”乐柯说着挂掉了电话。
+二小时过后,乐柯屋子的门响了起来,没错是领工和他那帮小弟来了。
+“唉呦我你***的乐柯,你**自己知道真相不告诉别人,真**贱了我*,快点开门!敲了一整天门！
+“唉,你怎么来了”
+“啊!!!我,谁咬我!”
+乐柯听到后半白怔住了:“小李,你先别动,小心危险!”乐柯打开了门外监控器。
+“不好了,是丧尸,不用一会儿,李工和那群工人也会成为丧尸,如果我去关心他们的话,必死无疑。
+接着乐柯回到客厅坐下来:“是时候战斗了。”窗边,还是一样的黄昏,一样的落日,却没有一样的373劳动课。
+“我一定要胜利的,这是必然。”
+撰写：柯韵书香 婉如清扬
+刊登：杨子霆
+校对：杨子霆 刘佳宸 赵鹏宇</text>
+      <sha1>6919ph8j5b1ltpsnkdgy227238e47ui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>相关百科条目</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>24</id>
+      <timestamp>2025-05-23T14:11:43Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“== 导航 == 这是一个与'''373文学Wiki'''相关的页面导航列表。你可以通过下列链接浏览相关条目：  === 主要条目 === * [[太原五中]]”</comment>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="ll69tsk9jejgl7k5h1bmlo4413ajegw" xml:space="preserve">== 导航 ==
+这是一个与'''373文学Wiki'''相关的页面导航列表。你可以通过下列链接浏览相关条目：
+
+=== 主要条目 ===
+* [[太原五中]]</text>
+      <sha1>ll69tsk9jejgl7k5h1bmlo4413ajegw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>太原五中</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>25</id>
+      <timestamp>2025-05-23T14:33:14Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“{{Infobox School | name =太原市第五中学校 | other_name = Taiyuan No. 5 Middle School | image =  | logo =  | motto = '''诚正明毅''' | established = {{QING}} 光绪  二十三年（1906年） | type        = 公立普通中学 | religion    =  | affiliation =  太原市   教育局   | district    = {{PRC}}&lt;br/&gt; 山西省    太原市    迎泽区   | grades      =  | president   =  | principal   =  杨向东   | dean        =  | college     =  | hous…”</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5999" sha1="7wasuk3u6bn935qmrrvwicuqof8k05s" xml:space="preserve">{{Infobox School
+| name =太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+| image = 
+| logo = 
+| motto = '''诚正明毅'''
+| established = {{QING}} 光绪  二十三年（1906年）
+| type        = 公立普通中学
+| religion    = 
+| affiliation =  太原市   教育局  
+| district    = {{PRC}}&lt;br/&gt; 山西省    太原市    迎泽区  
+| grades      = 
+| president   = 
+| principal   =  杨向东  
+| dean        = 
+| college     = 
+| house       = 
+| sc          =
+| cs          =
+| faculty     = 183
+| staff       = 
+| students    = 2600
+| athletics   = 
+| conference  = 
+| colors      = 
+| mascot      = 
+| magazine    =
+| free_label  = 
+| free_text   = 
+| free_label2 = 
+| free_text2  = 
+| free_label3 = 
+| free_text3  = 
+| address     = 青年路校区： 山西省   太原市   迎泽区  青年路49号 &lt;br/&gt; 龙城校区： 山西省   太原市   小店区  龙城南街与唐槐路交叉口
+| tel         = 
+| fax         = 
+| mail        = 
+| website     = [http://www.tywz.net.cn/ 太原五中校园网站]}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，現依舊為太原市最重要的中學之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* 杨喜高  
+* 章嘉谦  
+* 王一瑛  
+* 杨向東  
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>7wasuk3u6bn935qmrrvwicuqof8k05s</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>25</parentid>
+      <timestamp>2025-05-23T14:33:54Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5983" sha1="6usd8bp7r4u1prwkug570chjv8d4u2j" xml:space="preserve">
+| name =太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+| image = 
+| logo = 
+| motto = '''诚正明毅'''
+| established = {{QING}} 光绪  二十三年（1906年）
+| type        = 公立普通中学
+| religion    = 
+| affiliation =  太原市   教育局  
+| district    = {{PRC}}&lt;br/&gt; 山西省    太原市    迎泽区  
+| grades      = 
+| president   = 
+| principal   =  杨向东  
+| dean        = 
+| college     = 
+| house       = 
+| sc          =
+| cs          =
+| faculty     = 183
+| staff       = 
+| students    = 2600
+| athletics   = 
+| conference  = 
+| colors      = 
+| mascot      = 
+| magazine    =
+| free_label  = 
+| free_text   = 
+| free_label2 = 
+| free_text2  = 
+| free_label3 = 
+| free_text3  = 
+| address     = 青年路校区： 山西省   太原市   迎泽区  青年路49号 &lt;br/&gt; 龙城校区： 山西省   太原市   小店区  龙城南街与唐槐路交叉口
+| tel         = 
+| fax         = 
+| mail        = 
+| website     = [http://www.tywz.net.cn/ 太原五中校园网站]}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，現依舊為太原市最重要的中學之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* 杨喜高  
+* 章嘉谦  
+* 王一瑛  
+* 杨向東  
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>6usd8bp7r4u1prwkug570chjv8d4u2j</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>26</parentid>
+      <timestamp>2025-05-23T14:34:23Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5999" sha1="7wasuk3u6bn935qmrrvwicuqof8k05s" xml:space="preserve">{{Infobox School
+| name =太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+| image = 
+| logo = 
+| motto = '''诚正明毅'''
+| established = {{QING}} 光绪  二十三年（1906年）
+| type        = 公立普通中学
+| religion    = 
+| affiliation =  太原市   教育局  
+| district    = {{PRC}}&lt;br/&gt; 山西省    太原市    迎泽区  
+| grades      = 
+| president   = 
+| principal   =  杨向东  
+| dean        = 
+| college     = 
+| house       = 
+| sc          =
+| cs          =
+| faculty     = 183
+| staff       = 
+| students    = 2600
+| athletics   = 
+| conference  = 
+| colors      = 
+| mascot      = 
+| magazine    =
+| free_label  = 
+| free_text   = 
+| free_label2 = 
+| free_text2  = 
+| free_label3 = 
+| free_text3  = 
+| address     = 青年路校区： 山西省   太原市   迎泽区  青年路49号 &lt;br/&gt; 龙城校区： 山西省   太原市   小店区  龙城南街与唐槐路交叉口
+| tel         = 
+| fax         = 
+| mail        = 
+| website     = [http://www.tywz.net.cn/ 太原五中校园网站]}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，現依舊為太原市最重要的中學之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* 杨喜高  
+* 章嘉谦  
+* 王一瑛  
+* 杨向東  
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>7wasuk3u6bn935qmrrvwicuqof8k05s</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>27</parentid>
+      <timestamp>2025-05-23T14:48:06Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5491" sha1="6gncqhn69wwd4eaashue5gf4u4he8q6" xml:space="preserve">{{Infobox School
+| name = 太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+
+| motto = '''诚正明毅'''
+| established = 清光绪二十三年（1906年）
+| type = 公立普通中学
+| affiliation = 太原市教育局
+| district = 山西省太原市迎泽区
+| principal = 杨向东
+| students = 6000+
+| address = 青年路校区：山西省太原市迎泽区青年路49号&lt;br/&gt;龙城校区：山西省太原市小店区龙城南街与唐槐路交叉口
+| website = [http://www.tywz.net.cn/ 太原五中校园网站]
+}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，現依舊為太原市最重要的中學之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* 杨喜高  
+* 章嘉谦  
+* 王一瑛  
+* 杨向東  
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>6gncqhn69wwd4eaashue5gf4u4he8q6</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2025-05-23T14:48:59Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 历届校长 */</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5505" sha1="36admtg7uaemntpftn1v2f7lnk4dg6j" xml:space="preserve">{{Infobox School
+| name = 太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+
+| motto = '''诚正明毅'''
+| established = 清光绪二十三年（1906年）
+| type = 公立普通中学
+| affiliation = 太原市教育局
+| district = 山西省太原市迎泽区
+| principal = 杨向东
+| students = 6000+
+| address = 青年路校区：山西省太原市迎泽区青年路49号&lt;br/&gt;龙城校区：山西省太原市小店区龙城南街与唐槐路交叉口
+| website = [http://www.tywz.net.cn/ 太原五中校园网站]
+}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，現依舊為太原市最重要的中學之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* [[杨喜高]]  
+* [[章嘉谦]]  
+* [[王一瑛]]  
+* [[杨向東]]
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>36admtg7uaemntpftn1v2f7lnk4dg6j</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2025-05-23T15:18:03Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5505" sha1="rnky72k0567ukrznxpgu74fa4ba26bd" xml:space="preserve">{{Infobox School
+| name = 太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+
+| motto = '''诚正明毅'''
+| established = 清光绪二十三年（1906年）
+| type = 公立普通中学
+| affiliation = 太原市教育局
+| district = 山西省太原市迎泽区
+| principal = 杨向东
+| students = 6000+
+| address = 青年路校区：山西省太原市迎泽区青年路49号&lt;br/&gt;龙城校区：山西省太原市小店区龙城南街与唐槐路交叉口
+| website = [http://www.tywz.net.cn/ 太原五中校园网站]
+}}
+'''太原市第五中学校'''，简称“'''太原五中'''”，是 中华人民共和国   山西省   太原市  的一所全日制公办高级中学，也是 山西省  首批 重点中学  。创办于清末 光绪  三十二年（1906年），是山西省创建最早的一所省立中学，现依旧为太原市最重要的中学之一。
+
+==学校沿革==
+据史料载，太原五中在建校伊始，选址清代山西贡院（今起凤街东端），初名“山西公立中学堂”。 宣统二年  （1910年），易名“山西晋阳中学堂”。民国建元（1912年），改名“山西省立模范中学堂”，新辟校门于文瀛湖南畔（今 太原市  儿童公园）。民国二年（1913），更名“山西省立第一中学”，简称“省立一中”。民国二十四年（1935年），又更名为“山西省立太原中学”。卢沟桥事变后，日本侵略军进逼太原，学校迁往 祁县  贾令镇，次年返迁太原上马街原“女师”故址。 中华人民共和国  建立后的1953年，学校改今名，列为华北区重点中学。同年，华北局拨专款130万元，建新校舍于迎泽湖东畔，两年后迁入至今。1981年，該校被確定為山西省首批重點中學 
+2019年9月，太原五中新校区校区投入使用。新校区位于龙城南街以南，唐槐路以西。
+
+==学校规模==
+学校现有青年路校区、龙城新校区、羊市街校区、邮电校区四个校区。
+
+目前，太原五中青年路校区开设33个教学班，在校学生2000余名，教职工近200名。青年路校区占地面积4.3万平方米，建筑面积3.4万平方米。主要建筑有六层教学楼1幢，实验楼1幢，体育馆1座，综合楼1座，宿舍楼6幢，学生公寓1幢，标准教室32个，专用教室20个，阶梯教室2个。录音设备、闭路电视、幻灯投影、微电脑设备、语音设备齐全。理化仪器1.1万余件，藏书10万余册。300米跑道运动场1.75万平方米，风雨操场5000平方米，校办工厂一个。
+
+太原五中龙城校区位于龙城南街以南、唐槐路以西，于2015年12月正式开工建设，2019年9月竣工并投入使用。龙城校区建设用地东西约563米，南北约250米，规划区域占地面积约11.582公顷，包括综合楼、初高中部教学楼、国际部教学楼、宿舍楼、食堂、体育馆、报告厅、换热站等8栋单体建筑工程，以及室外道路管网工程围墙大门及室外建筑工程，地下车库、地下自行车库等工程。该项目总投资30497.21万元，设初中12轨制36个班，高中12轨制36个班，国际部24个班，招生4300余人。
+
+羊市街校区是太原五中历史发展过程中逐步形成的重要组成部分。该校区依托优越的地理位置和浓厚的文化底蕴，主要承担部分初中一年级二年级的教学任务。羊市街校区现已开设近20个教学班，日均在校学生数达到1000余人，教师团队规模与全校发展需求基本匹配。校园建筑面积在7千平方米左右。校园内规划布局合理，主要建筑包括一幢多层教学楼、一座实验楼；同时校区还配备了标准化教室、专用实验室和多媒体功能教室，充分满足现代教育的需求。体育设施方面，校区设有室外运动场，配备基础健身器材，为学生体育锻炼提供良好条件。此外，校区在信息化教学设备上也进行了更新改造，配置有先进的多媒体投影设备、音响、网络系统以及安全监控系统，努力为师生营造一个安全、现代、高效的学习和工作环境。
+龙城校区（新校区）与青年路校区（老校区）分别独立招生，即两个校区均招收高一、初一新生。
+
+==争议==
+2006年2月19日，国家发改委曝光了8所教育乱收费学校，其中太原五中在2004年、2005年招生中，以每生3万元的标准，多招收113名“三限生”，共多收费用339万元。当月20日上午，太原市教育局召开新闻发布会，称太原五中不存在超计划招生问题，有关负责人称，太原五中高中招生收费依据的是山西省教育委员会、省物价局、省财政厅“从山西教育的实际出发”于1999年发出的通知。之后太原五中召开党委会，学习国家有关政策规定，表示要在认真整改的基础上，彻底清理和自查学校招生、收费有关工作。山西省教育厅、太原市教育局责成太原五中就乱收费问题作出深刻检查，并要求在全省和全市立即开展教育收费检查。太原市教育局工作组进驻太原五中督促指导有关整改事项。
+==校训·校风·学风==
+*校训：诚正明毅
+*校风：团结、文明、求实、奋进
+*学风：刻苦、进取、踏实、创新
+
+==历届校长==
+* [[杨喜高]]  
+* [[章嘉谦]]  
+* [[王一瑛]]  
+* [[杨向東]]
+
+==杰出校友==
+* 高君宇  
+* 贺昌  
+* 彭真</text>
+      <sha1>rnky72k0567ukrznxpgu74fa4ba26bd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Infobox School</title>
+    <ns>10</ns>
+    <id>17</id>
+    <revision>
+      <id>28</id>
+      <timestamp>2025-05-23T14:38:17Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;includeonly&gt; {| class="infobox" style="width:300px; font-size:90%; line-height:1.5; border:1px solid #aaa; background:#f9f9f9; float:right; clear:right; margin:0 0 1em 1em;" |+ style="font-size:110%; font-weight:bold; background:#b0c4de; padding:0.4em;" | {{{名称|学校信息}}} |- ! style="background:#cedff2; text-align:left;" | 原名 | {{{原名|}}} |- ! style="background:#cedff2; text-align:left;" | 图片 | {{#if:{{{图片|}}}|[[File:{{{图片}}}|250px]…”</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1510" sha1="88zbmed57m8npez424fya89epr8428e" xml:space="preserve">&lt;includeonly&gt;
+{| class="infobox" style="width:300px; font-size:90%; line-height:1.5; border:1px solid #aaa; background:#f9f9f9; float:right; clear:right; margin:0 0 1em 1em;"
+|+ style="font-size:110%; font-weight:bold; background:#b0c4de; padding:0.4em;" | {{{名称|学校信息}}}
+|-
+! style="background:#cedff2; text-align:left;" | 原名
+| {{{原名|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 图片
+| {{#if:{{{图片|}}}|[[File:{{{图片}}}|250px]]|无}}
+|-
+! style="background:#cedff2; text-align:left;" | 校训
+| {{{校训|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 创建时间
+| {{{创建时间|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 学校类型
+| {{{学校类型|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 隶属
+| {{{隶属|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 所在地区
+| {{{所在地区|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 校长
+| {{{校长|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 学生人数
+| {{{学生人数|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 校区
+| {{{校区|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 校色
+| {{{校色|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 地址
+| {{{地址|}}}
+|-
+! style="background:#cedff2; text-align:left;" | 国家
+| {{{国家|中华人民共和国}}}
+|-
+! style="background:#cedff2; text-align:left;" | 网站
+| {{#if:{{{网站|}}}|[{{{网站}}} 官方网站]|无}}
+|}
+&lt;/includeonly&gt;&lt;noinclude&gt;</text>
+      <sha1>88zbmed57m8npez424fya89epr8428e</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>28</parentid>
+      <timestamp>2025-05-23T14:40:09Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2125" sha1="krn8bpelwex04qxzxd2hbsmwj52cb5i" xml:space="preserve">&lt;includeonly&gt;{{Infobox
+| name        = {{{name|}}}
+| native_name = {{{native_name|}}}
+| other_name  = {{{other_name|}}}
+| image       = {{{image|}}}
+| image_size  = {{{image_size|250px}}}
+| alt         = {{{alt|}}}
+| caption     = {{{caption|}}}
+| logo        = {{{logo|}}}
+| motto       = {{{motto|}}}
+| established = {{{established|}}}
+| closed      = {{{closed|}}}
+| type        = {{{type|}}}
+| schooltype  = {{{schooltype|}}}
+| fundingtype = {{{fundingtype|}}}
+| status      = {{{status|}}}
+| category    = {{{category|}}}
+| gender      = {{{gender|}}}
+| affiliation = {{{affiliation|}}}
+| religion    = {{{religion|}}}
+| denomination = {{{denomination|}}}
+| oversight   = {{{oversight|}}}
+| district    = {{{district|}}}
+| grades      = {{{grades|}}}
+| age_range   = {{{age_range|}}}
+| medium      = {{{medium|}}}
+| principal   = {{{principal|}}}
+| president   = {{{president|}}}
+| head_label  = {{{head_label|}}}
+| head        = {{{head|}}}
+| staff       = {{{staff|}}}
+| faculty     = {{{faculty|}}}
+| students    = {{{students|}}}
+| campus      = {{{campus|}}}
+| campus_type = {{{campus_type|}}}
+| area        = {{{area|}}}
+| athletics   = {{{athletics|}}}
+| colors      = {{{colors|}}}
+| mascot      = {{{mascot|}}}
+| nickname    = {{{nickname|}}}
+| yearbook    = {{{yearbook|}}}
+| newspaper   = {{{newspaper|}}}
+| publication = {{{publication|}}}
+| magazine    = {{{magazine|}}}
+| affiliations = {{{affiliations|}}}
+| conference  = {{{conference|}}}
+| ranking     = {{{ranking|}}}
+| tuition     = {{{tuition|}}}
+| endowment   = {{{endowment|}}}
+| alumni      = {{{alumni|}}}
+| address     = {{{address|}}}
+| city        = {{{city|}}}
+| state       = {{{state|}}}
+| province    = {{{province|}}}
+| country     = {{{country|}}}
+| postalcode  = {{{postalcode|}}}
+| coordinates = {{{coordinates|}}}
+| website     = {{{website|}}}
+| free_label  = {{{free_label|}}}
+| free_text   = {{{free_text|}}}
+| free_label2 = {{{free_label2|}}}
+| free_text2  = {{{free_text2|}}}
+| free_label3 = {{{free_label3|}}}
+| free_text3  = {{{free_text3|}}}
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Documentation}}
+[[Category:学校模板]]
+&lt;/noinclude&gt;</text>
+      <sha1>krn8bpelwex04qxzxd2hbsmwj52cb5i</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2025-05-23T14:45:10Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1585" sha1="kdv2x5zvmo7ekt3m596kr9oatttbntj" xml:space="preserve">&lt;includeonly&gt;
+{| class="infobox" style="width:300px; font-size:90%; line-height:1.5; border:1px solid #aaa; background:#f9f9f9; float:right; clear:right; margin:0 0 1em 1em;"
+|+ style="font-size:110%; font-weight:bold; background:#b0c4de; padding:0.4em;" | {{{name|学校名称未提供}}}
+|-
+! 原名
+| {{{other_name|}}}
+|-
+! 图片
+| {{#if:{{{image|}}}|[[File:{{{image}}}|250px]]|无图}}
+|-
+! 校徽
+| {{#if:{{{logo|}}}|[[File:{{{logo}}}|80px]]|无}}
+|-
+! 校训
+| {{{motto|}}}
+|-
+! 创建时间
+| {{{established|}}}
+|-
+! 类型
+| {{{type|}}}
+|-
+! 隶属
+| {{{affiliation|}}}
+|-
+! 地区
+| {{{district|}}}
+|-
+! 校长
+| {{{principal|}}}
+|-
+! 教职工
+| 教师：{{{faculty|}}}{{#if:{{{staff|}}}|；职工：{{{staff}}}}}
+|-
+! 学生人数
+| {{{students|}}}
+|-
+! 地址
+| {{{address|}}}
+|-
+! 网站
+| {{#if:{{{website|}}}|{{{website}}}|无}}
+|}
+&lt;/includeonly&gt;&lt;noinclude&gt;
+== 用法 ==
+将以下调用代码复制粘贴到页面上，替换具体内容：
+
+&lt;pre&gt;
+{{Infobox School
+| name = 太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+| image = 
+| logo = 
+| motto = '''诚正明毅'''
+| established = 清光绪二十三年（1906年）
+| type = 公立普通中学
+| affiliation = 太原市教育局
+| district = 山西省太原市迎泽区
+| principal = 杨向东
+| faculty = 183
+| students = 2600
+| address = 青年路校区：山西省太原市迎泽区青年路49号&lt;br/&gt;龙城校区：山西省太原市小店区龙城南街与唐槐路交叉口
+| website = [http://www.tywz.net.cn/ 太原五中校园网站]
+}}
+&lt;/pre&gt;
+
+[[Category:学校模板]]
+&lt;/noinclude&gt;</text>
+      <sha1>kdv2x5zvmo7ekt3m596kr9oatttbntj</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2025-05-23T14:47:00Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1467" sha1="hsb7re8herdhpic6tv7j1nb6zbbi06m" xml:space="preserve">&lt;includeonly&gt;
+{| class="infobox" style="width:300px; font-size:90%; line-height:1.5; border:1px solid #aaa; background:#f9f9f9; float:right; clear:right; margin:0 0 1em 1em;"
+|+ style="font-size:110%; font-weight:bold; background:#b0c4de; padding:0.4em;" | {{{name|学校名称未提供}}}
+|-
+! 原名
+| {{{other_name|}}}
+|-
+! 图片
+| {{#if:{{{image|}}}|[[File:{{{image}}}|250px]]|无图}}
+|-
+! 校徽
+| {{#if:{{{logo|}}}|[[File:{{{logo}}}|80px]]|无}}
+|-
+! 校训
+| {{{motto|}}}
+|-
+! 创建时间
+| {{{established|}}}
+|-
+! 类型
+| {{{type|}}}
+|-
+! 隶属
+| {{{affiliation|}}}
+|-
+! 地区
+| {{{district|}}}
+|-
+! 校长
+| {{{principal|}}}
+|-
+! 教职工
+| 教师：{{{faculty|}}}{{#if:{{{staff|}}}|；职工：{{{staff}}}}}
+|-
+! 学生人数
+| {{{students|}}}
+|-
+! 地址
+| {{{address|}}}
+|-
+! 网站
+| {{#if:{{{website|}}}|{{{website}}}|无}}
+|}
+&lt;/includeonly&gt;&lt;noinclude&gt;
+
+&lt;pre&gt;
+{{Infobox School
+| name = 太原市第五中学校
+| other_name = Taiyuan No. 5 Middle School
+
+| motto = '''诚正明毅'''
+| established = 清光绪二十三年（1906年）
+| type = 公立普通中学
+| affiliation = 太原市教育局
+| district = 山西省太原市迎泽区
+| principal = 杨向东
+| students = 6000+
+| address = 青年路校区：山西省太原市迎泽区青年路49号&lt;br/&gt;龙城校区：山西省太原市小店区龙城南街与唐槐路交叉口
+| website = [http://www.tywz.net.cn/ 太原五中校园网站]
+}}
+&lt;/pre&gt;
+
+[[Category:学校模板]]
+&lt;/noinclude&gt;</text>
+      <sha1>hsb7re8herdhpic6tv7j1nb6zbbi06m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Fmbox</title>
+    <ns>10</ns>
+    <id>18</id>
+    <revision>
+      <id>40</id>
+      <timestamp>2025-05-23T16:11:30Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“{{#invoke:Message box|fmbox}}”</comment>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="8vx20mrg7lfpwctbjxjq9k0ju8udsp2" xml:space="preserve">{{#invoke:Message box|fmbox}}</text>
+      <sha1>8vx20mrg7lfpwctbjxjq9k0ju8udsp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模块:Message box</title>
+    <ns>828</ns>
+    <id>19</id>
+    <revision>
+      <id>41</id>
+      <timestamp>2025-05-23T16:12:51Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“-- This is a meta-module for producing message box templates, including {{mbox}}, {{ambox}}, {{tmbox}}, {{ombox}} and {{fmbox}}.  -- Require necessary modules. local getArgs = require('Module:Arguments').getArgs local categoryHandler = require('Module:Category handler').main local yesno = require('Module:Yesno')  -- Load the configuration page. local cfgTables = mw.loadData('Module:Message box/configuration')  -- Get a language object for formatDate and ucfirst…”</comment>
+      <origin>41</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="19383" sha1="3ljrdr377z5buifdljeexzlk1duzaa3" xml:space="preserve">-- This is a meta-module for producing message box templates, including {{mbox}}, {{ambox}}, {{tmbox}}, {{ombox}} and {{fmbox}}.
+
+-- Require necessary modules.
+local getArgs = require('Module:Arguments').getArgs
+local categoryHandler = require('Module:Category handler').main
+local yesno = require('Module:Yesno')
+
+-- Load the configuration page.
+local cfgTables = mw.loadData('Module:Message box/configuration')
+
+-- Get a language object for formatDate and ucfirst.
+local lang = mw.language.getContentLanguage()
+
+-- Set aliases for often-used functions to reduce table lookups.
+local format = mw.ustring.format
+local tinsert = table.insert
+local tconcat = table.concat
+local trim = mw.text.trim
+
+--------------------------------------------------------------------------------
+-- Helper functions
+--------------------------------------------------------------------------------
+
+local function getTitleObject(page, ...)
+	if type(page) == 'string' then
+		-- Get the title object, passing the function through pcall 
+		-- in case we are over the expensive function count limit.
+		local success, title = pcall(mw.title.new, page, ...)
+		if success then
+			return title
+		end
+	end
+end
+
+local function union(t1, t2)
+	-- Returns the union of two arrays.
+	local vals = {}
+	for i, v in ipairs(t1) do
+		vals[v] = true
+	end
+	for i, v in ipairs(t2) do
+		vals[v] = true
+	end
+	local ret = {}
+	for k in pairs(vals) do
+		tinsert(ret, k)
+	end
+	table.sort(ret)
+	return ret
+end
+
+local function getArgNums(args, prefix)
+	local nums = {}
+	for k, v in pairs(args) do
+		local num = mw.ustring.match(tostring(k), '^' .. prefix .. '([1-9]%d*)$')
+		if num then
+			tinsert(nums, tonumber(num))
+		end
+	end
+	table.sort(nums)
+	return nums
+end
+
+--------------------------------------------------------------------------------
+-- Box class definition
+--------------------------------------------------------------------------------
+
+local box = {}
+box.__index = box
+
+function box.new()
+	local obj = {}
+	setmetatable(obj, box)
+	return obj
+end
+
+function box.getNamespaceId(ns)
+	if not ns then return end
+	if type(ns) == 'string' then
+		ns = lang:ucfirst(mw.ustring.lower(ns))
+		if ns == 'Main' then
+			ns = 0
+		end
+	end
+	local nsTable = mw.site.namespaces[ns]
+	if nsTable then
+		return nsTable.id
+	end
+end
+
+function box.getMboxType(nsid)
+	-- Gets the mbox type from a namespace number.
+	if nsid == 0 then
+		return 'ambox' -- main namespace
+	else
+		local nsTable = mw.site.namespaces[nsid]
+		if nsTable and nsTable.isTalk then
+			return 'tmbox' -- any talk namespace
+		else
+			return 'ombox' -- other namespaces or invalid input
+		end
+	end
+end
+
+function box:addCat(ns, cat, sort)
+	if type(cat) ~= 'string' then return end
+	local nsVals = {'main', 'template', 'all'}
+	local tname
+	for i, val in ipairs(nsVals) do
+		if ns == val then
+			tname = ns .. 'Cats'
+		end
+	end
+	if not tname then
+		for i, val in ipairs(nsVals) do
+			nsVals[i] = format('"%s"', val)
+		end
+		error('無效的ns參數傳送到box:addCat；有效的數值為' .. mw.text.listToText(nsVals, '、', '或'))
+	end
+	self[tname] = self[tname] or {}
+	if type(sort) == 'string' then
+		tinsert(self[tname], format('[[Category:%s|%s]]', cat, sort))
+	else
+		tinsert(self[tname], format('[[Category:%s]]', cat))
+	end
+end
+
+function box:addClass(class)
+	if type(class) ~= 'string' then return end
+	self.classes = self.classes or {}
+	tinsert(self.classes, class)
+end
+
+function box:setTitle(args)
+	-- Get the title object and the namespace.
+	self.pageTitle = getTitleObject(args.page ~= '' and args.page)
+	self.title = self.pageTitle or mw.title.getCurrentTitle()
+	self.demospace = args.demospace ~= '' and args.demospace or nil
+	self.nsid = box.getNamespaceId(self.demospace) or self.title.namespace
+end
+
+function box:getConfig(boxType)
+	-- Get the box config data from the data page.
+	if boxType == 'mbox' then
+		boxType = box.getMboxType(self.nsid)
+	end
+	local cfg = cfgTables[boxType]
+	if not cfg then
+		local boxTypes = {}
+		for k, v in pairs(dataTables) do
+			tinsert(boxTypes, format('"%s"', k))
+		end
+		tinsert(boxTypes, '"mbox"')
+		error(format('無效的訊息框類型「%s」；有效的類型為%s', tostring(boxType), mw.text.listToText(boxTypes)), 2)
+	end
+	return cfg
+end
+
+function box:removeBlankArgs(cfg, args)
+	-- Only allow blank arguments for the parameter names listed in cfg.allowBlankParams.
+	local newArgs = {}
+	for k, v in pairs(args) do
+		if v ~= '' then
+			newArgs[k] = v
+		end
+	end
+	for i, param in ipairs(cfg.allowBlankParams or {}) do
+		newArgs[param] = args[param]
+	end
+	return newArgs
+end
+
+function box:setBoxParameters(cfg, args)
+	-- Get type data.
+	self.type = args.type
+	local typeData = cfg.types[self.type]
+	self.invalidTypeError = cfg.showInvalidTypeError and self.type and not typeData and true or false
+	typeData = typeData or cfg.types[cfg.default]
+	self.typeClass = typeData.class
+	self.typeImage = typeData.image
+
+	-- Find if the box has been wrongly substituted.
+	if cfg.substCheck and args.subst == 'SUBST' then
+		self.isSubstituted = true
+	end
+
+	-- Find whether we are using a small message box.
+	if cfg.allowSmall and (
+		cfg.smallParam and args.small == cfg.smallParam
+		or not cfg.smallParam and yesno(args.small)
+	)
+	then
+		self.isSmall = true
+	else
+		self.isSmall = false
+	end
+
+	-- Add attributes, classes and styles.
+	if cfg.allowId then
+		self.id = args.id
+		self.name = args.name
+		if self.name then
+			self:addClass('box-' .. string.gsub(self.name,' ','_'))
+		end
+	end
+	for _, class in ipairs(cfg.classes or {}) do
+		self:addClass(class)
+	end
+	if self.isSmall then
+		self:addClass(cfg.smallClass or 'mbox-small')
+	end
+	if yesno(args.hidden) then
+		self:addClass('infobox editsection')
+	end
+	self:addClass(self.typeClass)
+	self:addClass(args.class)
+	self.style = args.style
+
+	-- Set text style.
+	self.textstyle = args.textstyle
+	self.abovestyle= args.abovestyle
+	self.belowstyle= args.belowstyle
+
+	-- Find if we are on the template page or not. This functionality is only used if useCollapsibleTextFields is set,
+	-- or if both cfg.templateCategory and cfg.templateCategoryRequireName are set.
+	self.useCollapsibleTextFields = cfg.useCollapsibleTextFields
+	if self.useCollapsibleTextFields or cfg.templateCategory and cfg.templateCategoryRequireName then
+		self.name = args.name
+		if self.name then
+			local templateName = mw.ustring.match(self.name, '^[tT][eE][mM][pP][lL][aA][tT][eE][%s_]*:[%s_]*(.*)$') or self.name
+			templateName = 'Template:' .. templateName
+			self.templateTitle = getTitleObject(templateName)
+		end
+		self.isTemplatePage = self.templateTitle and mw.title.equals(self.title, self.templateTitle) or false
+	end
+
+	-- Process data for collapsible text fields. At the moment these are only used in {{ambox}}.
+	if self.useCollapsibleTextFields then
+		-- Get the self.issue value.
+		if self.isSmall and args.smalltext then
+			self.issue = args.smalltext
+		else
+			local sect
+			if args.sect == '' then
+				sect = '此' .. (cfg.sectionDefault or '頁面')
+			elseif type(args.sect) == 'string' then
+				sect = '此' .. args.sect
+			end
+			local issue = args.issue
+			issue = type(issue) == 'string' and issue ~= '' and issue or nil
+			local text = args.text
+			text = type(text) == 'string' and text or nil
+			local issues = {}
+			tinsert(issues, sect)
+			tinsert(issues, issue)
+			tinsert(issues, text)
+			self.issue = tconcat(issues)
+		end
+
+		-- Get the self.talk value.
+		local talk = args.talk
+		if talk == '' -- Show talk links on the template page or template subpages if the talk parameter is blank.
+			and self.templateTitle 
+			and (mw.title.equals(self.templateTitle, self.title) or self.title:isSubpageOf(self.templateTitle))
+		then
+			talk = '#'
+		elseif talk == '' then
+			talk = nil
+		end
+		if talk then
+			-- If the talk value is a talk page, make a link to that page. Else assume that it's a section heading,
+			-- and make a link to the talk page of the current page with that section heading.
+			local talkTitle = getTitleObject(talk)
+			local talkArgIsTalkPage = true
+			if not talkTitle or not talkTitle.isTalkPage then
+				talkArgIsTalkPage = false
+				talkTitle = getTitleObject(self.title.text, mw.site.namespaces[self.title.namespace].talk.id)
+			end
+			if talkTitle and talkTitle.exists then
+				local talkText = '相關討論可見於'
+				if talkArgIsTalkPage then
+					talkText = format('%s[[%s|%s]]。', talkText, talk, talkTitle.prefixedText)
+				else
+					talkText = format('%s[[%s#%s|討論頁]]。', talkText, talkTitle.prefixedText, talk)
+				end
+				self.talk = talkText
+			end
+		end
+
+		-- Get other values.
+		local date
+		if args.date and args.date ~= '' then
+			date = args.date
+		elseif args.time == '' and self.isTemplatePage then
+			date = lang:formatDate('Y年n月j日')
+		elseif args.time and args.time ~= '' then
+			date = lang:formatDate('Y年n月j日', args.time)
+		end
+		if date then
+			local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月j日', date) -- 正規化日期
+			if ok then
+				date = tempdate
+			end
+		end
+		if date then
+			self.date = string.format(" &lt;small class='date-container'&gt;''(&lt;span class='date'&gt;%s&lt;/span&gt;)''&lt;/small&gt;", date)
+		end
+		if args.fix and args.fix ~= '' then
+			self.fix = format("&lt;br&gt;&lt;small&gt;%s&lt;/small&gt;", args.fix)
+		else
+			self.fix = ''
+		end
+		self.info = args.info
+	end
+
+	-- Set the non-collapsible text field. At the moment this is used by all box types other than ambox,
+	-- and also by ambox when small=yes.
+	if self.isSmall then
+		self.text = args.smalltext or args.text
+	else
+		self.text = args.text
+	end
+
+	-- Set the above row.
+	self.above = args.above
+
+	-- Set the below row.
+	self.below = args.below
+
+	-- General image settings.
+	self.imageCellDiv = not self.isSmall and cfg.imageCellDiv and true or false
+	self.imageEmptyCell = cfg.imageEmptyCell
+
+	-- Left image settings.
+	local imageLeft = self.isSmall and args.smallimage or args.image
+	if cfg.imageCheckBlank and imageLeft ~= 'blank' and imageLeft ~= 'none'
+		or not cfg.imageCheckBlank and imageLeft ~= 'none'
+	then
+		self.imageLeft = imageLeft
+		if not imageLeft then
+			local imageSize = self.isSmall and (cfg.imageSmallSize or '30x30px') or '40px'
+			self.imageLeft = format('[[File:%s|%s|link=|alt=]]', self.typeImage or 'Information Mark (Blue).svg', imageSize)
+		end
+	end
+
+	-- Right image settings.
+	local imageRight = self.isSmall and args.smallimageright or args.imageright
+	if not (cfg.imageRightNone and imageRight == 'none') then
+		self.imageRight = imageRight
+	end
+
+	-- Add mainspace categories. At the moment these are only used in {{ambox}}.
+	if cfg.allowMainspaceCategories then
+		if args.cat then
+			args.cat1 = args.cat
+		end
+		self.catNums = getArgNums(args, 'cat')
+		if args.category then
+			args.category1 = args.category
+		end
+		self.categoryNums = getArgNums(args, 'category')
+		if args.all then
+			args.all1 = args.all
+		end
+		self.allNums = getArgNums(args, 'all')
+		self.categoryParamNums = union(self.catNums, self.categoryNums)
+		self.categoryParamNums = union(self.categoryParamNums, self.allNums)
+		-- The following is roughly equivalent to the old {{Ambox/category}}.
+		local date
+		local sortDay
+		local dayName = {
+			[1] = '㏠',
+			[2] = '㏡',
+			[3] = '㏢',
+			[4] = '㏣',
+			[5] = '㏤',
+			[6] = '㏥',
+			[7] = '㏦',
+			[8] = '㏧',
+			[9] = '㏨',
+			[10] = '㏩',
+			[11] = '㏪',
+			[12] = '㏫',
+			[13] = '㏬',
+			[14] = '㏭',
+			[15] = '㏮',
+			[16] = '㏯',
+			[17] = '㏰',
+			[18] = '㏱',
+			[19] = '㏲',
+			[20] = '㏳',
+			[21] = '㏴',
+			[22] = '㏵',
+			[23] = '㏶',
+			[24] = '㏷',
+			[25] = '㏸',
+			[26] = '㏹',
+			[27] = '㏺',
+			[28] = '㏻',
+			[29] = '㏼',
+			[30] = '㏽',
+			[31] = '㏾'
+		}
+		if args.date and args.date ~= '' then
+			date = args.date
+			local ok, tempdate = pcall(lang.formatDate, lang, 'Y年n月', date) -- 正規化日期
+			if ok then
+				date = tempdate
+			end
+		elseif args.time and args.time ~= '' then
+			date = lang:formatDate('Y年n月', args.time)
+			sortDay = lang:formatDate('j', args.time)
+			sortDay = tonumber(sortDay)
+			sortDay = dayName[sortDay]
+		end
+		date = type(date) == 'string' and date
+		local preposition = '自'
+		for _, num in ipairs(self.categoryParamNums) do
+			local mainCat = args['cat' .. tostring(num)] or args['category' .. tostring(num)]
+			local allCat = args['all' .. tostring(num)]
+			mainCat = type(mainCat) == 'string' and mainCat
+			allCat = type(allCat) == 'string' and allCat
+			if mainCat and date and date ~= '' then
+				local catTitle = format('%s%s%s', preposition, date, mainCat)
+				if sortDay then
+					self:addCat('main', catTitle, sortDay)
+				else
+					self:addCat('main', catTitle)
+				end
+				catTitle = getTitleObject('Category:' .. catTitle)
+				if not catTitle or not catTitle.exists then
+					self:addCat('main', '模板中使用无效日期参数的条目')
+				end
+			elseif mainCat and (not date or date == '') then
+				self:addCat('main', mainCat)
+			end
+			if allCat then
+				self:addCat('main', allCat)
+			end
+		end
+	end
+
+	-- Add template-namespace categories.
+	if cfg.templateCategory then
+		if cfg.templateCategoryRequireName then
+			if self.isTemplatePage then
+				self:addCat('template', cfg.templateCategory)
+			end
+		elseif not self.title.isSubpage then
+			self:addCat('template', cfg.templateCategory)
+		end
+	end
+
+	-- Add template error category.
+	if cfg.templateErrorCategory then
+		local templateErrorCategory = cfg.templateErrorCategory
+		local templateCat, templateSort
+		if not self.name and not self.title.isSubpage then
+			templateCat = templateErrorCategory
+		elseif self.isTemplatePage then
+			local paramsToCheck = cfg.templateErrorParamsToCheck or {}
+			local count = 0
+			for i, param in ipairs(paramsToCheck) do
+				if not args[param] then
+					count = count + 1
+				end
+			end
+			if count &gt; 0 then
+				templateCat = templateErrorCategory
+				templateSort = tostring(count)
+			end
+			if self.categoryNums and #self.categoryNums &gt; 0 then
+				templateCat = templateErrorCategory
+				templateSort = 'C'
+			end
+		end
+		self:addCat('template', templateCat, templateSort)
+	end
+
+	-- Categories for all namespaces.
+	if self.invalidTypeError then
+		local allSort = (self.nsid == 0 and 'Main:' or '') .. self.title.prefixedText
+		self:addCat('all', '需要修复的信息框', allSort)
+	end
+	if self.isSubstituted then
+		self:addCat('all', '錯誤使用替換引用的頁面')
+	end
+
+	-- Convert category tables to strings and pass them through [[Module:Category handler]].
+	self.categories = categoryHandler{
+		main = tconcat(self.mainCats or {}),
+		template = tconcat(self.templateCats or {}),
+		all = tconcat(self.allCats or {}),
+		nocat = args.nocat,
+		demospace = self.demospace,
+		page = self.pageTitle and self.pageTitle.prefixedText or nil
+	}
+end
+
+function box:export()
+	local root = mw.html.create()
+
+	-- Add the subst check error.
+	if self.isSubstituted and self.name then
+		root
+			:tag('b')
+				:addClass('error')
+				:wikitext(format(
+					'模板&lt;code&gt;%s[[Template:%s|%s]]%s&lt;/code&gt;被錯誤地替代。',
+					mw.text.nowiki('{{'), self.name, self.name, mw.text.nowiki('}}')
+				))
+	end
+
+	-- Create the box table.
+	local boxTable = root:tag('div')
+	boxTable
+		:attr('id', self.id)
+	for i, class in ipairs(self.classes or {}) do
+		boxTable
+			:addClass(class)
+	end
+	boxTable
+		:cssText(self.style)
+		:attr('role', 'presentation')
+
+	-- Add the left-hand image.
+	local row = boxTable:tag('div'):addClass('mbox-body')
+	if self.imageLeft then
+		local imageLeftCell = row:tag('div'):addClass('mbox-image')
+		if self.imageCellDiv then
+			-- If we are using a div, redefine imageLeftCell so that the image is inside it.
+			-- Divs use style="width: 52px;", which limits the image width to 52px. If any
+			-- images in a div are wider than that, they may overlap with the text or cause
+			-- other display problems.
+			imageLeftCell = imageLeftCell:tag('div') --:css('width', '52px') 
+		end
+		imageLeftCell
+			:wikitext(self.imageLeft)
+	elseif self.imageEmptyCell then
+		-- Some message boxes define an empty cell if no image is specified, and some don't.
+		-- The old template code in templates where empty cells are specified gives the following hint:
+		-- "No image. Cell with some width or padding necessary for text cell to have 100% width."
+		row:tag('div')
+			:addClass('mbox-empty-cell') 
+	end
+
+	local textCell = row:tag('div'):addClass('mbox-text')
+
+	-- Add the above row.
+	if self.above then
+		textCell
+			:tag('div')
+				:attr('colspan', self.imageRight and '3' or '2')
+				:addClass('mbox-above')
+				:cssText(self.abovestyle)
+				:wikitext(self.above)
+	end
+
+	-- Add the text.
+	if self.useCollapsibleTextFields then
+		-- The message box uses advanced text parameters that allow things to be collapsible. At the
+		-- moment, only ambox uses this.
+		textCell
+			:cssText(self.textstyle)
+		local textCellSpan = textCell:tag('span')
+		textCellSpan
+			:addClass('mbox-text-span')
+			:wikitext(self.issue)
+		if not self.isSmall then
+			textCellSpan
+				:tag('span')
+					:addClass('hide-when-compact')
+					:wikitext(self.talk and self.talk)
+		end
+		textCellSpan
+			:wikitext(self.date and self.date)
+		if not self.isSmall and self.fix ~= '' then
+			textCellSpan
+				:tag('span')
+					:addClass('hide-when-compact')
+					:wikitext(self.fix and self.fix)
+		end
+		if not self.isSmall then
+			textCellSpan
+				:tag('span')
+				:addClass('hide-when-compact')
+				:wikitext(self.info and self.info)
+		end
+	else
+		-- Default text formatting - anything goes.
+		textCell
+			:cssText(self.textstyle)
+			:wikitext(self.text)
+	end
+
+	-- Add the below row.
+	if self.below then
+		textCell
+			:tag('div')
+				:attr('colspan', self.imageRight and '3' or '2')
+				:addClass('mbox-below')
+				:cssText(self.belowstyle)
+				:wikitext(self.below)
+	end
+
+	-- Add the right-hand image.
+	if self.imageRight then
+		local imageRightCell = row:tag('div'):addClass('mbox-imageright')
+		if self.imageCellDiv then
+			imageRightCell = imageRightCell:tag('div') --:css('width', '52px') -- If we are using a div, redefine imageRightCell so that the image is inside it.
+		end
+		imageRightCell
+			:wikitext(self.imageRight)
+	end
+	
+	-- Add __DISAMBIG__ for {{dmbox|type=disambig}}
+	if self.type == 'disambig' then
+		if self.nsid == '0' then 
+			root:wikitext('__DISAMBIG__')
+		end
+		if self.nsid == '10' then 
+			root:wikitext('[[Category:消歧義訊息模板]]')
+		else 
+			root:wikitext('[[Category:全部消歧义页面]]')
+		end
+	end
+
+	-- Add category for {{dmbox|type=setindex}}
+	if self.type == 'setindex' and self.nsid == '0' then 
+		root
+			:wikitext('[[Category:全部設置索引條目]]')
+	end
+	
+	-- Add error message for invalid type parameters.
+	if self.invalidTypeError then
+		root
+			:tag('div')
+				:css('text-align', 'center')
+				:wikitext(format('此訊息框使用無效的「type=%s」參數，需要修復。', self.type or ''))
+	end
+
+	-- Add categories.
+	root
+		:wikitext(self.categories)
+
+	return tostring(root)
+end
+
+local function main(boxType, args)
+	local outputBox = box.new()
+	outputBox:setTitle(args)
+	local cfg = outputBox:getConfig(boxType)
+	args = outputBox:removeBlankArgs(cfg, args)
+	outputBox:setBoxParameters(cfg, args)
+	return outputBox:export()
+end
+
+local function makeWrapper(boxType)
+	return function (frame)
+		local args = getArgs(frame, {trim = false, removeBlanks = false})
+		return main(boxType, args)
+	end
+end
+
+local p = {
+	main = main,
+	mbox = makeWrapper('mbox')
+}
+
+for boxType in pairs(cfgTables) do
+	p[boxType] = makeWrapper(boxType)
+end
+
+return p</text>
+      <sha1>3ljrdr377z5buifdljeexzlk1duzaa3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Message box/styles.css</title>
+    <ns>10</ns>
+    <id>20</id>
+    <revision>
+      <id>43</id>
+      <timestamp>2025-05-23T16:17:34Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“.msgbox { 	display: grid; 	grid-template-columns: 1fr; 	gap: 0.6em; 	align-items: center; 	max-width: 80%; 	margin: 0.5em auto; 	padding: 0.3em 0.6em; 	border-left: 8px solid #36e; 	background-color: #f8f9fa; }  .msgbox.has-image { 	grid-template-columns: max-content 1fr; }  .msgbox.msgbox-mini { 	gap: 0.3em; 	margin-left: 0; 	margin-right: 0; 	padding: 0 0.3em; 	max-width: max-content; }  @media screen and (max-width: 720px) { 	.msgbox { 		max-width: 100%; 	}…”</comment>
+      <origin>43</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1778" sha1="tqy1qrrhjdtehxlr17p0fii3sezvuuv" xml:space="preserve">.msgbox {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 0.6em;
+	align-items: center;
+	max-width: 80%;
+	margin: 0.5em auto;
+	padding: 0.3em 0.6em;
+	border-left: 8px solid #36e;
+	background-color: #f8f9fa;
+}
+
+.msgbox.has-image {
+	grid-template-columns: max-content 1fr;
+}
+
+.msgbox.msgbox-mini {
+	gap: 0.3em;
+	margin-left: 0;
+	margin-right: 0;
+	padding: 0 0.3em;
+	max-width: max-content;
+}
+
+@media screen and (max-width: 720px) {
+	.msgbox {
+		max-width: 100%;
+	}
+}
+
+/* TemplateStyles 会向页面中的第一个 Msgbox 前插入 &lt;style&gt; 元素，其他 Msgbox 前插入 &lt;link&gt; 元素。 */
+.msgbox + link + .msgbox {
+	margin-top: -0.5em;
+	border-top: 1px solid #bbc2c6;
+}
+
+.msgbox.msgbox-default,
+.msgbox.msgbox-notice {
+	background-color: #f8f9fa;
+	border-left-color: #36e;
+}
+
+.msgbox.msgbox-red,
+.msgbox.msgbox-warning {
+	background-color: #fcc;
+	border-left-color: #e44;
+}
+
+.msgbox.msgbox-orange,
+.msgbox.msgbox-content {
+	background-color: #fdb;
+	border-left-color: #f90;
+}
+
+.msgbox.msgbox-yellow,
+.msgbox.msgbox-style {
+	background-color: #ffc;
+	border-left-color: #fc3;
+}
+
+.msgbox.msgbox-green,
+.msgbox.msgbox-status {
+    background-color: #cfc;
+    border-left-color: #5d5;
+}
+
+.msgbox.msgbox-cyan,
+.msgbox.msgbox-version {
+    background-color: #cef;
+    border-left-color: #9df;
+}
+
+.msgbox.msgbox-magenta {
+    background-color: #fdf;
+    border-left-color: #f9f;
+}
+
+.msgbox.msgbox-purple,
+.msgbox.msgbox-move {
+    background-color: #ecf;
+    border-left-color: #96c;
+}
+
+.msgbox.msgbox-grey,
+.msgbox.msgbox-protection {
+    background-color: #d2d2d2;
+    border-left-color: #bbc2c6;
+}
+
+.msgbox-body.align-left {
+	text-align: left;
+}
+
+.msgbox-body.align-center {
+	text-align: center;
+}
+
+.msgbox-body.align-right {
+	text-align: right;
+}
+
+.msgbox-text p {
+	margin: 0;
+}</text>
+      <sha1>tqy1qrrhjdtehxlr17p0fii3sezvuuv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Quote</title>
+    <ns>10</ns>
+    <id>21</id>
+    <revision>
+      <id>46</id>
+      <timestamp>2025-05-23T16:20:39Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;includeonly&gt;&lt;templatestyles src="Quote/styles.css" /&gt;&lt;div class="quote" style="grid-template-columns: {{#if: {{{image|{{{4|}}}}}} | 64px }} 23px 1fr 23px;"&gt;&lt;!--   --&gt;{{#if: {{{image|{{{4|}}}}}} | &lt;div style="grid-row: 1 / span {{#if: {{{author|{{{2|}}}}}}{{{custom|}}} | 2 | 1 }};"&gt;[[File:{{{image|{{{4|}}}}}}|64px]]&lt;/div&gt; }}&lt;!--   --&gt;&lt;div class="quote-mark quote-mark-start"&gt;-{“}-&lt;/div&gt;&lt;!--   --&gt;&lt;div class="quote-content"&gt; &lt;p style="margin: 0;"&gt; {{{1}}}  &lt;/p&gt;…”</comment>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="826" sha1="mfvij4m6g0jjjgvtsum053keffb392n" xml:space="preserve">&lt;includeonly&gt;&lt;templatestyles src="Quote/styles.css" /&gt;&lt;div class="quote" style="grid-template-columns: {{#if: {{{image|{{{4|}}}}}} | 64px }} 23px 1fr 23px;"&gt;&lt;!-- 
+ --&gt;{{#if: {{{image|{{{4|}}}}}} | &lt;div style="grid-row: 1 / span {{#if: {{{author|{{{2|}}}}}}{{{custom|}}} | 2 | 1 }};"&gt;[[File:{{{image|{{{4|}}}}}}|64px]]&lt;/div&gt; }}&lt;!-- 
+ --&gt;&lt;div class="quote-mark quote-mark-start"&gt;-{“}-&lt;/div&gt;&lt;!-- 
+ --&gt;&lt;div class="quote-content"&gt;
+&lt;p style="margin: 0;"&gt;
+{{{1}}} 
+&lt;/p&gt;
+&lt;/div&gt;&lt;!-- 
+ --&gt;&lt;div class="quote-mark quote-mark-end"&gt;-{”}-&lt;/div&gt;&lt;!-- 
+ --&gt;{{#if: {{{author|{{{2|}}}}}}{{{custom|}}} | &lt;div class="quote-attribution"&gt;——'''{{#if: {{{custom|}}} | {{{custom}}} | {{{author|{{{2|[[User:Jeaber2|某人]]}}}}}}{{#if: {{{topic|{{{3|}}}}}} | 评论于{{{topic|{{{3}}}}}} }} }}'''&lt;/div&gt; }}&lt;!-- 
+ --&gt;&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;</text>
+      <sha1>mfvij4m6g0jjjgvtsum053keffb392n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模块:Infobox</title>
+    <ns>828</ns>
+    <id>22</id>
+    <revision>
+      <id>49</id>
+      <timestamp>2025-05-23T16:23:23Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“local p = {} function p.infobox(f) 	local args = f 	if f == mw.getCurrentFrame() then 		args = require('Module:ProcessArgs').merge(true) 	end 	f = mw.getCurrentFrame()  	local isSubBox = args.subbox 	local title 	local imageArea = args.imagearea 	local subHeader = args.subheader 	local footer = args.footer 	if not isSubBox then 		if args.title and args.title ~= 'none' then 			title = args.title 			local titleNode = mw.html.create('div') 				:addClass('infobox-t…”</comment>
+      <origin>49</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="3607" sha1="kiigp2x31fo6b4lhynl4dpxemjee099" xml:space="preserve">local p = {}
+function p.infobox(f)
+	local args = f
+	if f == mw.getCurrentFrame() then
+		args = require('Module:ProcessArgs').merge(true)
+	end
+	f = mw.getCurrentFrame()
+
+	local isSubBox = args.subbox
+	local title
+	local imageArea = args.imagearea
+	local subHeader = args.subheader
+	local footer = args.footer
+	if not isSubBox then
+		if args.title and args.title ~= 'none' then
+			title = args.title
+			local titleNode = mw.html.create('div')
+				:addClass('infobox-title')
+				:cssText(args.titlestyle)
+				:wikitext(title)
+			title = tostring(titleNode)
+		end
+		if imageArea == 'none' then
+			imageArea = nil
+		end
+		if not imageArea then
+			local images = {}
+			local invImages = {}
+			local defaultImageSize = args.defaultimagesize or '160px'
+			args.image1 = args.image1 or args.image
+			args.image1size = args.image1size or args.imagesize or defaultImageSize
+			args.invimage1 = args.invimage1 or args.invimage
+			local imgCount = {}
+			local invImgCount = {}
+			for k, v in pairs(args) do
+				if type(k) == 'string' then
+					local name, num = mw.ustring.match(k, '^(.*image)(%d+)$')
+					if mw.ustring.lower(v) ~= 'none' then
+						if name == 'image' then
+							table.insert(imgCount, tonumber(num))
+						elseif name == 'invimage' then
+							table.insert(invImgCount, tonumber(num))
+						end
+					end
+				end
+			end
+			table.sort(imgCount)
+			local animate = require('Module:Animate').animate
+			for _, v in ipairs(imgCount) do
+				local image = args['image' .. v]
+				local size = args['image' .. v .. 'size'] or defaultImageSize
+				if mw.ustring.match(image, ';') then
+					image = animate {image, size}
+				else
+					image = '[[File:' .. image .. '|' .. size .. ']]'
+				end
+				table.insert(images, '&lt;div&gt;' .. image .. '&lt;/div&gt;')
+			end
+			images = table.concat(images, '\n')
+			if #invImgCount &gt; 0 then
+				table.sort(invImgCount)
+				local slot = require('Module:Inventory slot').slot
+				for _, v in ipairs(invImgCount) do
+					local image = args['invimage' .. v]
+					if image == '----' then
+						table.insert(invImages, '&lt;/div&gt;&lt;div style="padding-top:.5em"&gt;')
+					elseif image then
+						table.insert(invImages, slot {image, link = 'none', mod = args.mod})
+					end
+				end
+				if slot and #invImages &gt; 0 then
+					invImages = '&lt;div class="infobox-invimages"&gt;&lt;div&gt;' .. table.concat(invImages, '') .. '&lt;/div&gt;&lt;/div&gt;'
+				else
+					invImages = ''
+				end
+			else
+				invImages = ''
+			end
+			if images ~= '' or invImages ~= '' then
+				imageArea = '&lt;div class="infobox-imagearea"&gt;' .. images .. '\n' .. invImages .. '&lt;/div&gt;'
+			else
+				imageArea = nil
+			end
+		else
+			imageArea = '&lt;div class="infobox-imagearea"&gt;' .. imageArea .. '&lt;/div&gt;'
+		end
+		if subHeader then
+			local subHeaderNode = mw.html.create('div')
+				:addClass('infobox-subheader')
+				:cssText(args.subheaderstyle)
+				:wikitext(subHeader)
+			subHeader = tostring(subHeaderNode)
+		end
+		if footer then
+			footer = '&lt;div class="infobox-footer"&gt;' .. footer .. '&lt;/div&gt;'
+		end
+	end
+	local rows = args.rows
+	if rows then
+		if isSubBox then
+			rows = '&lt;div class="infobox-rows subinfobox"&gt;' .. rows .. '&lt;/div&gt;'
+		else
+			rows = '&lt;div class="infobox-rows"&gt;' .. rows .. '&lt;/div&gt;'
+		end
+	end
+	if not (title or imageArea or subHeader or rows or footer) then
+		return ''
+	end
+	local styles = f:extensionTag {name = 'templatestyles', args = {src = 'Infobox/styles.css'}}
+	local html = {}
+	if not isSubBox then
+		html = {
+			'&lt;div class="notaninfobox"&gt;',
+			title or '',
+			imageArea or '',
+			subHeader or '',
+			rows or '',
+			footer or '',
+			'&lt;/div&gt;'
+		}
+	else
+		html = {rows}
+	end
+	return styles .. table.concat(html)
+end
+return p</text>
+      <sha1>kiigp2x31fo6b4lhynl4dpxemjee099</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模块:Array</title>
+    <ns>828</ns>
+    <id>23</id>
+    <revision>
+      <id>50</id>
+      <timestamp>2025-05-23T16:24:23Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“local p = {}  local function stringToArray(str, separator, mapper) 	local arr = {} 	local i = 1 	for v in mw.text.gsplit(str, separator) do 		arr[i] = mapper(v) 		i = i + 1 	end 	return arr end  local function tableToArray(tbl, offset, mapper) 	local arr = {} 	for k, v in pairs(tbl) do 		if type(k) == 'number' and k &gt; offset then 			arr[k - offset] = mapper(v) 		end 	end 	return arr end  function p.main() 	local args = require('Module:ProcessArgs').merge() 	ret…”</comment>
+      <origin>50</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="1967" sha1="9m9nyzma3u9hfp8sjziau47by1kn43t" xml:space="preserve">local p = {}
+
+local function stringToArray(str, separator, mapper)
+	local arr = {}
+	local i = 1
+	for v in mw.text.gsplit(str, separator) do
+		arr[i] = mapper(v)
+		i = i + 1
+	end
+	return arr
+end
+
+local function tableToArray(tbl, offset, mapper)
+	local arr = {}
+	for k, v in pairs(tbl) do
+		if type(k) == 'number' and k &gt; offset then
+			arr[k - offset] = mapper(v)
+		end
+	end
+	return arr
+end
+
+function p.main()
+	local args = require('Module:ProcessArgs').merge()
+	return p.array(args)
+end
+
+function p.array(args)
+	local wrapTag = args.wrap or ''
+	local wrapTemplate = args.template or ''
+	local delimiter = args.delimiter or args.d
+	local formatString = args.format
+	local finalDelimiter = args.finaldelimiter or args.fd
+
+	local frame = mw.getCurrentFrame()
+
+	local mapper = type(args.mapper) == 'function'
+		and args.mapper
+		or function (v)
+			if wrapTemplate ~= '' then
+				v = require( 'Module:' .. wrapTemplate ).call{ v }
+			end
+			if wrapTag ~= '' then
+				if wrapTag == 'nowiki' then
+					v = mw.text.nowiki(mw.text.unstripNoWiki(v))
+				else
+					v = frame:extensionTag(wrapTag, v)
+				end
+			end
+			if formatString then
+				v = formatString:format(v, v)
+			end
+			return v
+		end
+
+	local arr
+	if args.mode == 'single' then
+		arr = stringToArray(args[1], args.sep or ',', mapper)
+	else
+		arr = tableToArray(args, tonumber(args.offset) or 0, mapper)
+	end
+
+	if arr[1] == nil then
+		return ''
+	end
+
+	if delimiter == 'pretty' then
+		return mw.text.listToText(arr, nil, finalDelimiter ~= '' and finalDelimiter or nil)
+	elseif finalDelimiter then
+		return mw.text.listToText(arr, delimiter, finalDelimiter)
+	elseif delimiter == 'newline' or delimiter == 'br' then
+		return table.concat(arr, '&lt;br&gt;')
+	elseif delimiter == 'list' or delimiter == 'list-newline'
+		or delimiter == 'bullet' or delimiter == '*' then
+			local listLevel = args['list-level'] or '**'
+			return table.concat(arr, '\n' .. listLevel)
+	else
+		return table.concat(arr, delimiter)
+	end
+end
+
+return p</text>
+      <sha1>9m9nyzma3u9hfp8sjziau47by1kn43t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>杨向東</title>
+    <ns>0</ns>
+    <id>24</id>
+    <revision>
+      <id>53</id>
+      <timestamp>2025-05-24T05:21:54Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“{{人物小传 |姓名 = 杨向东 |性别 = 男 |出生日期 =  |出生地点 = 中国山西省 |职业 = 教育工作者、中学校长 |知名原因 = 曾任太原市第五中学校校长 }}  '''杨向东'''，中国教育工作者，长期在山西省从事基础教育工作，曾任太原市第五中学校校长。他在任内主张教育管理制度化、教学内容现代化、德育体系系统化，强调学生全面发展与学校规章制度并重…”</comment>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5612" sha1="8kjm0le2gb1jt5d2991ow71kqyu58oz" xml:space="preserve">{{人物小传
+|姓名 = 杨向东
+|性别 = 男
+|出生日期 = 
+|出生地点 = 中国山西省
+|职业 = 教育工作者、中学校长
+|知名原因 = 曾任太原市第五中学校校长
+}}
+
+'''杨向东'''，中国教育工作者，长期在山西省从事基础教育工作，曾任太原市第五中学校校长。他在任内主张教育管理制度化、教学内容现代化、德育体系系统化，强调学生全面发展与学校规章制度并重。在其任内推行了多项校园管理与教学改革措施，也因部分校园管理事件和师生矛盾遭到舆论关注和争议。
+
+== 教育背景与职业发展 ==
+杨向东早年毕业于山西省内师范类院校，专业为汉语言文学教育。大学毕业后即投身中学教育事业，初期担任语文教师，后因教学能力和教研成果逐步晋升为年级组长、教研组负责人、副校长，最终担任太原市第五中学校校长。
+
+他在担任一线教师期间，曾多次参与山西省及太原市教育系统组织的优质课评比与教学公开课展示，在语文教学法、作文训练、阅读理解能力提升等方面积累一定经验。在教学管理岗位上，他逐步形成注重制度设计、规范执行、量化评估的风格，被部分教育管理者视为“制度派校长”。
+
+== 任期管理与教学改革 ==
+担任太原五中校长后，杨向东提出“管理要有边界，教学要有深度”的治校理念。他主张教学管理应建立在制度基础之上，师生均应有明确的行为规范与责任边界。他强化教务管理制度，重新编制作息时间表、调整课程安排、设置多项教师量化考核内容。
+
+在教学方面，他推动课程内容改革，强调基础知识与创新能力并重，鼓励学生参与社会实践、科普竞赛、演讲辩论、艺术展演等活动。在德育方面，他提出“班主任主责、德育处统筹、全员参与”的德育机制，强化学生思想政治教育、安全教育、心理健康教育的内容安排。
+
+学校在其任期内还扩建了多间多媒体教室，引进智慧黑板、智能讲评系统，建立学生综合素质档案数据库，为教学反馈提供量化依据。
+
+== 教师管理制度与内部评估 ==
+杨向东特别重视教师队伍管理与激励，设立教师量化积分制度，涵盖教学成绩、教案准备、课堂纪律、学生反馈、竞赛成果等多个维度，分层次实施绩效考核，部分内容直接与年终奖金挂钩。
+
+这种做法一方面被认为提升了教学效率与课堂纪律，另一方面也引发教师对“过度量化”“机械评估”的质疑。有教师反映压力过大、缺乏人性化管理，也有个别教师因不满考评标准而提出调离申请。
+
+他还提出“岗位晋升与公开竞聘”机制，鼓励青年教师参与学术研究、教育改革实验项目，为其提供晋升通道。
+
+== 校园管理争议 ==
+在管理过程中，杨向东的风格也引发部分学生家长和舆论的批评。多起争议主要集中于以下方面：
+
+=== 课业负担与自习管理 ===
+学校在其任期内推行“限时作业”“无手机课堂”“晚自习强制坐班”等制度，尽管官方解释为“保障学习秩序”，但部分学生和家长反映作业量大、管理过于刚性，缺乏灵活性。有学生在社交平台匿名投诉称，晚自习期间如未按时签到将被记入学籍档案。
+
+=== 心理健康事件 ===
+据学生回忆，校内曾发生个别学生因心理压力问题产生不良情绪，学校虽已建立心理咨询室，但在应对突发事件方面仍显薄弱。有媒体曾报道，部分教师缺乏心理危机识别与干预能力，导致心理预警系统未能有效运行。
+
+=== 校内公开惩戒制度 ===
+学校一度实行“全校通报批评制度”，将严重违纪学生名单张贴于校务公开栏，引发关于教育羞辱与尊重人格权的讨论。部分家长对此持反对态度，认为此举有违现代教育理念。
+
+== 教育理念与公开发言 ==
+杨向东多次在教育系统内部会议上强调：“教育的本质不是迎合，而是引导”，“规则面前人人平等，纪律是校园最大的公平”。他坚信通过制度和标准化管理可以推动校园教育质量的提升。
+
+他也认为教师是校园文化的“第一责任人”，应以身作则，并对学生成长起榜样作用。因此他在教师培训中强调“师德师风”，禁止一切形式的家教家养，推进校园廉洁建设。
+
+== 卸任与后续影响 ==
+截至目前，杨向东已不再担任太原市第五中学校校长，具体离任时间及后续去向未公开。有消息称他已调任至其他教育管理机构或退休。
+
+尽管争议不断，但部分教育界人士认为他推动了校园制度现代化，为后续管理留下制度基础。支持者认为他治理期间校园管理井然、学风严谨，反对者则认为其管理手段缺乏人文关怀，不利于学生身心发展。
+
+== 公众评价 ==
+对杨向东的公众评价两极分化。有家长和教师认为他“能力强、执行力高、敢于担当”，也有不少学生认为他“刻板僵化、管理过严”，甚至有人称其管理风格“行政化、军营式”。在网络上，关于其任内管理措施的讨论长期存在，反映了公众对基础教育管理风格的分歧。
+
+== 参见 ==
+* 太原市第五中学校
+* 中国中学校长职权
+* 中国基础教育管理制度
+* 教育改革中的争议与实践
+
+{{中国教育家小传}}</text>
+      <sha1>8kjm0le2gb1jt5d2991ow71kqyu58oz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>章嘉谦</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>54</id>
+      <timestamp>2025-05-24T05:26:16Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“{{Infobox person | name        = 章嘉谦 | native_name = 章嘉谦 | birth_place = 山西省太原市 | nationality = 中国 | occupation  = 教育管理者 | known_for   = 太原市第五中学校校长 }}  '''章嘉谦'''，中国大陆教育工作者，曾任山西省太原市第五中学校校长。  == 经历 == 章嘉谦出生于山西省太原市，在担任太原市第五中学校长之前，曾在太原市内多所中学担任教育及管理职务。…”</comment>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2003" sha1="18tpembqu4in3alap4ywm2zo9t9qlwl" xml:space="preserve">{{Infobox person
+| name        = 章嘉谦
+| native_name = 章嘉谦
+| birth_place = 山西省太原市
+| nationality = 中国
+| occupation  = 教育管理者
+| known_for   = 太原市第五中学校校长
+}}
+
+'''章嘉谦'''，中国大陆教育工作者，曾任山西省太原市第五中学校校长。
+
+== 经历 ==
+章嘉谦出生于山西省太原市，在担任太原市第五中学校长之前，曾在太原市内多所中学担任教育及管理职务。其职业生涯长期与中学教学管理相关，具有一定的基层教育工作经验。
+
+== 任职太原五中 ==
+章嘉谦担任太原市第五中学校校长期间，负责学校的整体教学安排与行政管理。该校为省级重点中学，在当地具有较高影响力。在其任期内，学校在学科竞赛、高考升学率方面维持较高水平，吸引了大量生源。然而，章嘉谦的管理方式与学校若干制度安排在部分方面也引起了舆论关注。
+
+== 争议与批评 ==
+
+=== 招生政策透明度问题 ===
+在任期内，有关太原五中招生政策的透明度问题曾引发部分家长和媒体关注。部分报道指出，学校在招生过程中存在宣传口径不一致、特殊指标分配机制不公开的问题。
+
+=== 校际资源分配问题 ===
+太原五中主校区与分校之间的资源配置差异亦曾受到质疑。有媒体指出，主校区在经费、设备、师资调配上具有明显优势，导致学生就读体验存在差距。
+
+=== 教师管理问题 ===
+任内曾有数起教师调岗、请辞等事件引起公众讨论。有观点认为，学校在绩效考核与晋升体系上的某些制度设计影响了教师的工作积极性和稳定性。
+
+== 争议处理与后续 ==
+对于外界质疑，学校管理层曾组织内部整改，包括调整教师评价体系、开展家长代表听证会等形式回应社会关注。章嘉谦亦在后期进行若干行政改革尝试以改善内部管理与信息公开机制。
+
+== 现状 ==
+退休</text>
+      <sha1>18tpembqu4in3alap4ywm2zo9t9qlwl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>王一瑛</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>55</id>
+      <timestamp>2025-05-24T05:33:30Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“{{Infobox person | name           = 王一瑛 | native_name    = 王一瑛 | office         = 太原市第五中学校校长 | term_start     = 2013年9月 | term_end       = 2022年3月 | predecessor    = （待补充） | successor      = 杨向东 | birth_place    = 山西省太原市 | nationality    = 中华人民共和国 | party          = 中国共产党 | alma_mater     = 山西师范大学 | occupation     = 教育管理者 }}  '''王一瑛'''，中…”</comment>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2234" sha1="08zhm5jocdg7qxq0mksszanagusxph0" xml:space="preserve">{{Infobox person
+| name           = 王一瑛
+| native_name    = 王一瑛
+| office         = 太原市第五中学校校长
+| term_start     = 2013年9月
+| term_end       = 2022年3月
+| predecessor    = （待补充）
+| successor      = 杨向东
+| birth_place    = 山西省太原市
+| nationality    = 中华人民共和国
+| party          = 中国共产党
+| alma_mater     = 山西师范大学
+| occupation     = 教育管理者
+}}
+
+'''王一瑛'''，中国教育工作者，中共党员，硕士研究生学历，曾任山西省太原市第五中学校校长、党委副书记。
+
+== 生平与教育背景 ==
+王一瑛毕业于山西师范大学教育管理专业，获得硕士学位。毕业后在山西省中学系统担任教师及行政职务，积累了丰富的教学与管理经验。
+
+== 职业生涯 ==
+=== 任职前经历 ===
+在担任太原五中校长之前，王一瑛曾在山西省多所中学任教，并担任过教务主任、副校长等职务，参与学校教学改革和管理工作。
+
+=== 担任太原五中校长 ===
+2013年9月，王一瑛被任命为太原市第五中学校校长、党委副书记，全面负责学校的教学、管理与发展工作。
+
+== 正面事件 ==
+=== 教育改革与发展 ===
+在任职期间，王一瑛推动学校课程改革，倡导素质教育，提升了学校的教学质量和学生综合素养。
+
+=== 校际合作与交流 ===
+她积极推动校际合作，与多所高校建立合作关系，组织师资培训和学生交流活动，拓宽了师生的视野。
+
+== 负面事件 ==
+=== 招生收费问题 ===
+2006年，太原五中因招生收费问题被有关部门点名。虽然该事件发生在王一瑛任职前，但在其任内，学校进行了整改，完善了收费管理制度。
+
+=== 教学资源分配争议 ===
+在任职期间，有教师反映学校在教学资源分配上存在不均，部分校区教学设施老化，影响了教学质量。
+
+== 荣誉与奖项 ==
+* 入选山西省中小学名校长培养计划（第一期，2017年）
+* 被评为太原市优秀教育工作者
+
+== 参考资料 ==
+* 太原市教育局公告
+* 山西省教育厅文件
+* 太原五中校内资料
+
+== 外部链接 ==
+* 太原市第五中学校官网</text>
+      <sha1>08zhm5jocdg7qxq0mksszanagusxph0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Soft redirect</title>
+    <ns>10</ns>
+    <id>27</id>
+    <revision>
+      <id>56</id>
+      <timestamp>2025-05-24T15:50:11Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;div style="     font-size: 84%;     line-height: 1.2em;     margin: -1.2em 0 1.2em 1em;     color: #545454;     width: auto; "&gt;[[wzh:Wikipedia:软重定向|软重定向]]页面&lt;/div&gt; &lt;div class="redirectMsg"&gt;[[File:Soft redirect.svg|#重定向|link=]]&lt;span class="redirectText plainlinks" id="softredirect"&gt;{{ #if: {{#pos: {{{1}}} | // }}  | [{{{1}}} {{{2|{{{1}}}}}}]  | [[:{{{1}}}|{{{2|{{{1}}}}}}]] }}&lt;/span&gt;&lt;br&gt;&lt;span style="font-size:85%; padding-left:48px;"&gt;点…”</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="ar8sj1ti06l3m3gz7ujl6n6q5kmril3" xml:space="preserve">&lt;div style="
+    font-size: 84%;
+    line-height: 1.2em;
+    margin: -1.2em 0 1.2em 1em;
+    color: #545454;
+    width: auto;
+"&gt;[[wzh:Wikipedia:软重定向|软重定向]]页面&lt;/div&gt;
+&lt;div class="redirectMsg"&gt;[[File:Soft redirect.svg|#重定向|link=]]&lt;span class="redirectText plainlinks" id="softredirect"&gt;{{
+#if: {{#pos: {{{1}}} | // }}
+ | [{{{1}}} {{{2|{{{1}}}}}}]
+ | [[:{{{1}}}|{{{2|{{{1}}}}}}]]
+}}&lt;/span&gt;&lt;br&gt;&lt;span style="font-size:85%; padding-left:48px;"&gt;点击链接以前往重定向目标页。&lt;/span&gt;&lt;/div&gt;&lt;includeonly&gt;
+[[Category:软重定向]]&lt;/includeonly&gt;</text>
+      <sha1>ar8sj1ti06l3m3gz7ujl6n6q5kmril3</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2025-05-24T15:50:45Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="539" sha1="gn9onqpen15fn1fks0iryt3j325u623" xml:space="preserve">&lt;div style="
+    font-size: 84%;
+    line-height: 1.2em;
+    margin: -1.2em 0 1.2em 1em;
+    color: #545454;
+    width: auto;
+"&gt;软重定向页面&lt;/div&gt;
+&lt;div class="redirectMsg"&gt;[[File:Soft redirect.svg|#重定向|link=]]&lt;span class="redirectText plainlinks" id="softredirect"&gt;{{
+#if: {{#pos: {{{1}}} | // }}
+ | [{{{1}}} {{{2|{{{1}}}}}}]
+ | [[:{{{1}}}|{{{2|{{{1}}}}}}]]
+}}&lt;/span&gt;&lt;br&gt;&lt;span style="font-size:85%; padding-left:48px;"&gt;点击链接以前往重定向目标页。&lt;/span&gt;&lt;/div&gt;&lt;includeonly&gt;
+[[Category:软重定向]]&lt;/includeonly&gt;</text>
+      <sha1>gn9onqpen15fn1fks0iryt3j325u623</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>文件:Soft redirect.svg</title>
+    <ns>6</ns>
+    <id>28</id>
+    <revision>
+      <id>58</id>
+      <timestamp>2025-05-24T15:51:27Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <upload>
+      <timestamp>2025-05-24T15:51:27Z</timestamp>
+      <contributor>
+        <username>Jeaber2</username>
+        <id>2</id>
+      </contributor>
+      <comment deleted="deleted" />
+      <filename>Soft_redirect.svg</filename>
+      <src>https://373literature.miraheze.org/w/img_auth.php/e/ee/Soft_redirect.svg</src>
+      <size>250</size>
+      <sha1base36>i9tv3mu00gfza351bstei9wgss7chev</sha1base36>
+      <rel>e/ee/Soft_redirect.svg</rel>
+    </upload>
+  </page>
+  <page>
+    <title>杨喜高</title>
+    <ns>0</ns>
+    <id>29</id>
+    <revision>
+      <id>60</id>
+      <timestamp>2025-05-25T09:04:38Z</timestamp>
+      <contributor>
+        <username>Keyboard politician</username>
+        <id>4</id>
+      </contributor>
+      <comment>创建页面，内容为“= 杨喜高 =  '''杨喜高'''，中国教育工作者，曾任山西省太原市第五中学校（简称“太原五中”）校长。作为一位资深的化学教育专家和中学教育管理者，他在任职期间对太原五中的教学质量提升、师资队伍建设以及学校管理体制改革等方面作出了重要贡献。  == 教育背景与职业生涯 ==  杨喜高出生于山西太原，1965年毕业于北京师范大学化学系，随后回…”</comment>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2493" sha1="i3i2paxjg1pmx559f8sllfhbpsin8jw" xml:space="preserve">= 杨喜高 =
+
+'''杨喜高'''，中国教育工作者，曾任山西省太原市第五中学校（简称“太原五中”）校长。作为一位资深的化学教育专家和中学教育管理者，他在任职期间对太原五中的教学质量提升、师资队伍建设以及学校管理体制改革等方面作出了重要贡献。
+
+== 教育背景与职业生涯 ==
+
+杨喜高出生于山西太原，1965年毕业于北京师范大学化学系，随后回到家乡从事中学教育工作。他长期在山西省太原市第五中学校任教，担任化学教师，并逐步晋升为教研组长、副校长，最终担任校长职务。
+
+在担任校长期间，杨喜高注重教学质量的提升和教育管理的现代化。他倡导“以人为本”的教育理念，强调学生的全面发展和教师的专业成长。他推动学校课程改革，强化理科教学，特别是在化学、物理等学科的教学质量上取得显著成效。
+
+== 教育理念与管理风格 ==
+
+杨喜高秉持“严谨治学、因材施教”的教学理念，注重学生的个性发展和综合素质培养。他强调教师队伍的专业化建设，鼓励教师参与教研活动和继续教育，提高教学水平。
+
+在管理方面，杨喜高推行民主化管理，倡导集体决策，注重听取教师和学生的意见。他重视校园文化建设，营造积极向上的学习氛围，提升学校的整体办学水平。
+
+== 对太原五中的贡献 ==
+
+在杨喜高的领导下，太原五中在教学质量、师资力量和学校管理等方面取得了显著进步。学校培养出多位优秀学生，在各类学科竞赛和高考中取得优异成绩，进一步巩固了太原五中在山西省重点中学中的地位。
+
+他还积极推动学校基础设施建设，改善教学环境，引进现代化教学设备，为师生提供更好的教学和学习条件。
+
+== 退休与后续影响 ==
+
+杨喜高在退休后，继续关注教育事业的发展，参与教育咨询和教师培训等活动。他的教育理念和管理经验对后来的教育工作者产生了积极影响，许多教师将其视为榜样，学习其教学方法和管理经验。
+
+== 评价与荣誉 ==
+
+杨喜高在教育界享有良好声誉，被誉为“严师慈父”，深受学生和同事的尊敬。他多次获得省市级教育荣誉称号，为山西省的基础教育事业作出了重要贡献。
+
+== 参见 ==
+
+* 太原市第五中学校
+* 山西省教育发展史</text>
+      <sha1>i3i2paxjg1pmx559f8sllfhbpsin8jw</sha1>
+    </revision>
+  </page>
+</mediawiki>
